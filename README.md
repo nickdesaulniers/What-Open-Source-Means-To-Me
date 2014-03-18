@@ -41,3 +41,15 @@ se convierta en el beneficio de todos.
 ### [Robert Nyman](http://robertnyman.com/)
 
 Open source means, at the end of the day, sharing. Sharing our knowledge, experiences and learning but also being open and humbe for contributions, other perspectives and ideas. The essence of how mankind should work together to create something better and more inclusive while being transparent with our work.
+
+###[Gervase Markham](http://www.gerv.net/)
+Open source is important because it's part of what we need to make sure that
+as more and more people across the world come online, they can do so while
+being in control of their own technology, and without having to pay
+gatekeepers.
+
+God has a project to bless and transform the world through the work of his
+people, until the earth is filled with his glory. Open source is important to
+me because it's one of the ways I can contribute to that project, using the
+particular skills He has given me.
+
