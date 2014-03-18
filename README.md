@@ -5,9 +5,12 @@ about what open source means to them.  See CONTRIBUTING for the expected
 format.
 
 ###[Nick Desaulniers](http://nickdesaulniers.github.io/about/)
-Open source to me means standing on the shoulders of giants instead of starting
-from scratch every time; reinventing the wheel again and again.  This allows us
-to accelerate the rate at which technological break throughs occur.  Open
-source allows us to learn from, examine, and understand how the software we use
-everyday works, and how we can write better software ourselves.
+Open source means standing on the shoulders of giants, allowing humanity to
+accelerate the pace of technological achievement collectively, instead of
+wasting time starting from square one repeatedly.  Open source allows us to
+examine, learn from, and understand how the software we use everyday works, and
+how we can write better software ourselves.  Open source allows us to create a
+community around users and contributors.  The opportunity of contribution is
+allowed from any and all instead of exclusive rings of those employed by any
+one organization.
 
