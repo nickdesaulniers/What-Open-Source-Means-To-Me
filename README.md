@@ -16,9 +16,9 @@ one organization.
 
 ### [Julia Evans](http://jvns.ca)
 
-Open source means that I have a computer with amazing software on it that's 
-available for free. I do almost all my work using Linux, Python, Ruby, Perl, 
-GNU tools. It means we have Wikipedia. I literally can't imagine a world 
+Open source means that I have a computer with amazing software on it that's
+available for free. I do almost all my work using Linux, Python, Ruby, Perl,
+GNU tools. It means we have Wikipedia. I literally can't imagine a world
 without open source software.
 
 I also think about my experiences contributing to open source software, which
@@ -30,3 +30,11 @@ I think of open source communities as places that are useful and productive and
 supportive also as places where people can be rude and exclusionary and awful.
 Building good communities isn't easy work, and open source isn't magical. We
 can do so well and so badly.
+
+###[Pablo Terradillos](http://twitter.com/tehsis)
+El Open Source es importante para mí, porque me permite abrirme a un mundo mucho más amplio.
+Aprender de los gigantes, poniendome a la par de los mismos en forma de pequeñas contribuciones.
+El Open Source significa poner el avance primero. Permitiendo que cualquier persona pueda contribuir, en vez de competir.
+El Open Source permite crear comunidades, lazos, permite que un completo desconocido ayude a otro. Que la necesidad de uno,
+se convierta en el beneficio de todos.
+
