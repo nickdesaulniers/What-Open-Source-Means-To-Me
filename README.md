@@ -53,3 +53,14 @@ people, until the earth is filled with his glory. Open source is important to
 me because it's one of the ways I can contribute to that project, using the
 particular skills He has given me.
 
+###[Angel "Java" Lopez](http://twitter.com/ajlopez)
+Open source is important because software is changing the human history. And open source is a key part of that process.
+A lot of human activity was leveraged by software applications. Even the Internet and the web are in part software.
+
+And open source is important to me because is a way to learn, to practice, and to share with others. The way of doing
+software is now: open source it. The way to learn programming is: read OS code, write OS code, collaborate with other OS project.
+
+This way of doing programming is changing the metrics of the planet. Now, you and me can be connected, working together,
+both living thousands of miles. The power is in your brain and fingers. Social position, previous education, welfare, does
+not matter. The power returns to the people.
+
