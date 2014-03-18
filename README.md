@@ -14,3 +14,9 @@ community around users and contributors.  The opportunity of contribution is
 allowed from any and all instead of exclusive rings of those employed by any
 one organization.
 
+###[Pablo Terradillos](http://twitter.com/tehsis)
+El Open Source es importante para mí, porque me permite abrirme a un mundo mucho más amplio.
+Aprender de los gigantes, poniendome a la par de los mismos en forma de pequeñas contribuciones.
+El Open Source significa poner el avance primero. Permitiendo que cualquier persona pueda contribuir, en vez de competir.
+El Open Source permite crear comunidades, lazos, permite que un completo desconocido ayude a otro. Que la necesidad de uno,
+se convierta en el beneficio de todos.
