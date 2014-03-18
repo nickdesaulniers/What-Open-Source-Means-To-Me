@@ -38,3 +38,11 @@ El Open Source significa poner el avance primero. Permitiendo que cualquier pers
 El Open Source permite crear comunidades, lazos, permite que un completo desconocido ayude a otro. Que la necesidad de uno,
 se convierta en el beneficio de todos.
 
+###[Anant Narayanan](http://kix.in)
+Open source to me is not only the ability to use high quality software, but also
+the ability to peek inside and truly understand how it works. Software is eating the world, they say,
+so to me it is critical that the art of creating software be as accessible as possible.
+
+Before I learned of open source software, every thing on my computer was a black box. I had no
+insight into how it was built or how it worked. It was incredibly limiting, which is why the
+sense of freedom that comes with using, contributing and writing open source software has few parallels.
