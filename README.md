@@ -14,3 +14,19 @@ community around users and contributors.  The opportunity of contribution is
 allowed from any and all instead of exclusive rings of those employed by any
 one organization.
 
+### [Julia Evans](http://jvns.ca)
+
+Open source means that I have a computer with amazing software on it that's 
+available for free. I do almost all my work using Linux, Python, Ruby, Perl, 
+GNU tools. It means we have Wikipedia. I literally can't imagine a world 
+without open source software.
+
+I also think about my experiences contributing to open source software, which
+have been alternately amazing and super stressful. I've spent time in IRC channels
+where people answer my questions within minutes and take me seriously, and
+in channels where I've been mocked for not knowing things.
+
+I think of open source communities as places that are useful and productive and 
+supportive also as places where people can be rude and exclusionary and awful.
+Building good communities isn't easy work, and open source isn't magical. We
+can do so well and so badly.
