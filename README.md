@@ -64,3 +64,19 @@ This way of doing programming is changing the metrics of the planet. Now, you an
 both living thousands of miles. The power is in your brain and fingers. Social position, previous education, welfare, does
 not matter. The power returns to the people.
 
+###[Austin King](http://ozten.com)
+Open source gave me insight into our modern world and a way to participate as a
+productive member. Until the Web, Linux, Perl and XML I have no interest in computers.
+I was a visual artist and interested in creating things and doing conceptual art.
+
+Being exposed to the web was exciting, but the addictive part came from it's open
+nature. I was able to see how the web was built. I could see that it wasn't
+"finished".
+
+Getting started, I never would have tinkered with an opaque blob like the iPhone.
+I could add to it, without anyone's permission.
+
+This appealed to my creative and intellectual sides. As a coincidence, I discovered
+that companies would pay for this line of work. Open Source literally changed my life and gave me
+a reason to participate in mainstream society.
+
