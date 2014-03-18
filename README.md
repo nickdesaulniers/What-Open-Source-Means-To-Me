@@ -80,3 +80,12 @@ This appealed to my creative and intellectual sides. As a coincidence, I discove
 that companies would pay for this line of work. Open Source literally changed my life and gave me
 a reason to participate in mainstream society.
 
+###[Anant Narayanan](http://kix.in)
+Open source to me is not only the ability to use high quality software, but also
+the ability to peek inside and truly understand how it works. Software is eating the world, they say,
+so to me it is critical that the art of creating software be as accessible as possible.
+
+Before I learned of open source software, every thing on my computer was a black box. I had no
+insight into how it was built or how it worked. It was incredibly limiting, which is why the
+sense of freedom that comes with using, contributing and writing open source software has few parallels.
+
