@@ -38,3 +38,6 @@ El Open Source significa poner el avance primero. Permitiendo que cualquier pers
 El Open Source permite crear comunidades, lazos, permite que un completo desconocido ayude a otro. Que la necesidad de uno,
 se convierta en el beneficio de todos.
 
+### [Robert Nyman](http://robertnyman.com/)
+
+Open source means, at the end of the day, sharing. Sharing our knowledge, experiences and learning but also being open and humbe for contributions, other perspectives and ideas. The essence of how mankind should work together to create something better and more inclusive while being transparent with our work.
