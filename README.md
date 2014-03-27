@@ -89,3 +89,7 @@ Before I learned of open source software, every thing on my computer was a black
 insight into how it was built or how it worked. It was incredibly limiting, which is why the
 sense of freedom that comes with using, contributing and writing open source software has few parallels.
 
+###[Luca Greco](http://github.com/rpl)
+OpenSource significa "questa non è una scatola nera", ed ho il diritto/dovere di studiare, modificare e contribuire alle tecnologie che scelgo.
+
+Quando scelgo una tecnologia FLOSS, non scelgo solo le sue funzionalità, ma anche la sua base di codice e la sua community, la sua cultura e le sue "best practices", e quindi da buon cittadino, cerco di "dare e condividere" almeno quanto "prendo ed apprendo".
