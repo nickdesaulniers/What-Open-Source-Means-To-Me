@@ -100,3 +100,7 @@ Computers are tools for creation. Their versatility magnifies our capacity to wo
 It's a two way street. Everything framing my interest in computers from my childhood until today has been made better by sharing ideas and the serendipity that comes from that, from sharing webcomics in middle school to writing open source tools today. For the longest time I felt I didn't have much to contribute&mdash;now, instead of noticing flaws in software, I notice what I can do to get involved. And whenever software I've help write reaches other people, I feel I've paid back in a small way my fortune in being involved during such an incredible time in technology.
 
 Every patch counts! Including this pull request.
+
+###[Alon Zakai](http://twitter.com/kripken)
+Open source is important because it is the best way to ensure that software is available to benefit everyone in as wide a way as possible: Anyone with a computer can access and modify open source software, and it can't be locked down or restricted. And since software is 'just' information - and information is extremely cheap to transmit - this is not just a theoretical position but a practical one. In fact open source is the natural state of things for software: it takes intention and effort to make software not open.
+
