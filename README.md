@@ -104,3 +104,12 @@ Every patch counts! Including this pull request.
 ###[Alon Zakai](http://twitter.com/kripken)
 Open source is important because it is the best way to ensure that software is available to benefit everyone in as wide a way as possible: Anyone with a computer can access and modify open source software, and it can't be locked down or restricted. And since software is 'just' information - and information is extremely cheap to transmit - this is not just a theoretical position but a practical one. In fact open source is the natural state of things for software: it takes intention and effort to make software not open.
 
+###[Justin Clift](http://github.com/justinclift)
+Open source means making things easier for the next person, who is
+trying to solve the same problem I just had.
+
+Sometimes that next person goes further, solving new problems,
+sharing their solution as well.
+
+With time and constructive encouragement, this can become a Community
+of problem solvers and doers to positively change the world. :smiley:
