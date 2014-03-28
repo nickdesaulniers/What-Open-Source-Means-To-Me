@@ -122,3 +122,5 @@ Open Source means that I get to be a small part of solving problems for thousand
 
 If each line of code or documentation that I improve helps one person do their job a little better, or get home to their family a few minutes earlier, then it was worth the effort. And, in turn, the work that others have done make my life better and more productive, too.
 
+###[Randall Leeds](http://bleeds.info/)
+Open Source means to me that access to literacy is a right rather than a privilege and that even if I choose to sell my labor I never forfeit my right to share the resulting abundance.
