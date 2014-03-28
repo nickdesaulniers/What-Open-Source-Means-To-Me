@@ -114,7 +114,11 @@ sharing their solution as well.
 With time and constructive encouragement, this can become a Community
 of problem solvers and doers to positively change the world. :smiley:
 
+###[Soumith Chintala](http://github.com/soumith)
+Open source, to me, is an amazing culture that is so antithetic to mainstream society, yet I'm surprised at how it evolves so peacefully but strongly. The sense and strength of community is so powerful, that I couldn't have been happier to be a part of this movement, amazed and humbled by the craziest ideas and work that get shared. In simple words, it changed my life. 
+
 ###[Rich Bowen](http://rcbowen.com/)
 Open Source means that I get to be a small part of solving problems for thousands, or potentially millions, of people that I will never meet. I get to make the world a better place. I feel a great deal of satisfaction every time I see someone using something that I helped make.
 
 If each line of code or documentation that I improve helps one person do their job a little better, or get home to their family a few minutes earlier, then it was worth the effort. And, in turn, the work that others have done make my life better and more productive, too.
+
