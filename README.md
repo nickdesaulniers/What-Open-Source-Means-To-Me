@@ -124,3 +124,6 @@ If each line of code or documentation that I improve helps one person do their j
 
 ###[Randall Leeds](http://bleeds.info/)
 Open Source means to me that access to literacy is a right rather than a privilege and that even if I choose to sell my labor I never forfeit my right to share the resulting abundance.
+
+###[Adam Lofting](http://adamlofting.com)
+Open Source, to me, means using our combined energy to iterate on, rather than replicate the work of those before us; and enabling those who follow us to do the same.
