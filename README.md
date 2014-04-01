@@ -127,3 +127,6 @@ Open Source means to me that access to literacy is a right rather than a privile
 
 ###[Adam Lofting](http://adamlofting.com)
 Open Source, to me, means using our combined energy to iterate on, rather than replicate, the work of those before us; and enabling those who follow us to do the same.
+
+###[Jeff Poyzner](http://risebird.tumblr.com/)
+To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will evntually change the world.
