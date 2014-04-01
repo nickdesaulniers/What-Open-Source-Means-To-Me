@@ -127,3 +127,8 @@ Open Source means to me that access to literacy is a right rather than a privile
 
 ###[Adam Lofting](http://adamlofting.com)
 Open Source, to me, means using our combined energy to iterate on, rather than replicate, the work of those before us; and enabling those who follow us to do the same.
+
+###[William Duyck](http://wduyck.com/)
+Open source is important. Human collaboration across **an open platform is essential to individual growth and our collective future**. That platform is not just a technical implimentation of something, but more an ethos, a way of working together. The open web is the communication tool, open source is the way of working together, and when combined we can play to eachother's strengths to better ourselves and others quicker, more effectively, and with higher value.
+
+Open source is not just a licensing agreement, or the ability to look at the code. Its understanding the balance of **public** vs private. Its the ability to work with others, no matter who they are, where they're from, or what they beleive. Open source is a way of life.
