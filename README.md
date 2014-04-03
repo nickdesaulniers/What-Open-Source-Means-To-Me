@@ -134,3 +134,8 @@ To me open source means not hiding how you made something so that anyone else ca
 ###[Jim Cresswell](http://twitter.com/JimCresswell)
 Learning and creating in new, better ways.
 ![new ways](/images/einstein.jpg)
+
+###[Vlad Filippov](http://vf.io/)
+To me the key idea of open source is to be able to remix, improve and extend existing solutions.
+Open source also helps us not repeat the same mistakes and learn from years of experience of others.
+In particular, open source software helps us become better programmers and leave our mark for future generations of software developers.
