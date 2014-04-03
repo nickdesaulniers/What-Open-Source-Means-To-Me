@@ -130,3 +130,7 @@ Open Source, to me, means using our combined energy to iterate on, rather than r
 
 ###[Jeff Poyzner](http://risebird.tumblr.com/)
 To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will evntually change the world.
+
+###[Jim Cresswell](http://twitter.com/JimCresswell)
+Learning and creating in new, better ways.
+![new ways](/images/einstein.jpg)
