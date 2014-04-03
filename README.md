@@ -139,3 +139,9 @@ Learning and creating in new, better ways.
 To me the key idea of open source is to be able to remix, improve and extend existing solutions.
 Open source also helps us not repeat the same mistakes and learn from years of experience of others.
 In particular, open source software helps us become better programmers and leave our mark for future generations of software developers.
+
+###[Christian Heilmann](http://christianheilmann.com)
+Open Source means to me that you share your creation with the world. You don't just give it out to look at it, you allow people to participate and change the project according to suggestions (after a peer review). You build it with the people and for the people. That way open source is not only about technology - it is about collaboration and sharing responsibilities. It means that your product will go on when you are not part of it any more and others can build on what you did. It protects you from burning out on one product and allows others to start with something that already works.
+
+![sharing the dog with the world](/images/dog.jpg "Yes, you may pet me while I wait for my human")
+
