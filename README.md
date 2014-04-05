@@ -40,7 +40,7 @@ se convierta en el beneficio de todos.
 
 ### [Robert Nyman](http://robertnyman.com/)
 
-Open source means, at the end of the day, sharing. Sharing our knowledge, experiences and learning but also being open and humbe for contributions, other perspectives and ideas. The essence of how mankind should work together to create something better and more inclusive while being transparent with our work.
+Open source means, at the end of the day, sharing. Sharing our knowledge, experiences and learning but also being open and humble for contributions, other perspectives and ideas. The essence of how mankind should work together to create something better and more inclusive while being transparent with our work.
 
 ###[Gervase Markham](http://www.gerv.net/)
 Open source is important because it's part of what we need to make sure that
@@ -54,15 +54,14 @@ me because it's one of the ways I can contribute to that project, using the
 particular skills He has given me.
 
 ###[Angel "Java" Lopez](http://twitter.com/ajlopez)
-Open source is important because software is changing the human history. And open source is a key part of that process.
+Open source is important because software is changing human history. And open source is a key part of that process.
 A lot of human activity was leveraged by software applications. Even the Internet and the web are in part software.
 
-And open source is important to me because is a way to learn, to practice, and to share with others. The way of doing
+And open source is important to me because it is a way to learn, to practice, and to share with others. The way of doing
 software is now: open source it. The way to learn programming is: read OS code, write OS code, collaborate with other OS project.
 
 This way of doing programming is changing the metrics of the planet. Now, you and me can be connected, working together,
-both living thousands of miles. The power is in your brain and fingers. Social position, previous education, welfare, does
-not matter. The power returns to the people.
+both living thousands of miles. The power is in your brain and fingers. Social position, previous education, welfare, does not matter. The power returns to the people.
 
 ###[Austin King](http://ozten.com)
 Open source gave me insight into our modern world and a way to participate as a
@@ -129,7 +128,7 @@ Open Source means to me that access to literacy is a right rather than a privile
 Open Source, to me, means using our combined energy to iterate on, rather than replicate, the work of those before us; and enabling those who follow us to do the same.
 
 ###[Jeff Poyzner](http://risebird.tumblr.com/)
-To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will evntually change the world.
+To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will eventually change the world.
 
 ###[Jim Cresswell](http://twitter.com/JimCresswell)
 Learning and creating in new, better ways.
@@ -146,4 +145,4 @@ Open Source means to me that you share your creation with the world. You don't j
 ![sharing the dog with the world](/images/dog.jpg "Yes, you may pet me while I wait for my human")
 
 ###[Lukas Blakk](http://lukasblakk.com)
-To me Open Source is a tool in the activist toolbox.  It's how we can get things done without having to wait and ask permission, without having to built every. single. thing. we want before we can accomplish great things. We build on each other's work, we build up each other's work together.  The fact that I could "view source" on web pages in the earlier days of the web was how I taught myself to make my own web pages.  Multiply that out times every thing we do with technology in our lives.  Wherever there is a black box, where a corporate power whose only interest is to continue to funnel money into the pockets of teh 1%, we will open it up. We (the open source hackers) will reverse engineer, offer alternatives, show it can be done collectively for greater good than any capitalist enterprise.  Look around you - open source is running so many of the things we take for granted.  It's literally for *everyone* and we'll keep getting more and more people rallying to it, learning it & building it, so that there's always a non-silo option and transparency into the increasingly present technology in our lives.
+To me Open Source is a tool in the activist toolbox.  It's how we can get things done without having to wait and ask permission, without having to build every. single. thing. we want before we can accomplish great things. We build on each other's work, we build up each other's work together.  The fact that I could "view source" on web pages in the earlier days of the web was how I taught myself to make my own web pages.  Multiply that out times every thing we do with technology in our lives.  Wherever there is a black box, where a corporate power whose only interest is to continue to funnel money into the pockets of teh 1%, we will open it up. We (the open source hackers) will reverse engineer, offer alternatives, show it can be done collectively for greater good than any capitalist enterprise.  Look around you - open source is running so many of the things we take for granted.  It's literally for *everyone* and we'll keep getting more and more people rallying to it, learning it & building it, so that there's always a non-silo option and transparency into the increasingly present technology in our lives.
