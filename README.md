@@ -149,3 +149,9 @@ To me Open Source is a tool in the activist toolbox.  It's how we can get things
 
 ###[Diane Tate](http://diane.bz)
 Open Source is a collective ownership of code, process and values to create something bigger and more universally-valuable than a centrally-controlled, commercially-prioritized entity can do. It's shared creation and participation as well as consumption.
+
+###[Tim Chevalier](http://catamorphism.org/)
+
+To me, open source means that different people can come together to make things, share knowledge, and help each other in a way that isn't driven by capitalism. Just as you might give your friend a ride to the airport, babysit their child, or even just sit with them and listen to them talk about their problems for no monetary reward, contributing to open source is not a simple economic transaction. It's true that most people get back more than they give, but what makes contributing to an open-source project worthwhile is something other than immediate financial gain. Often, it's just the knowledge that you are part of something bigger than yourself.
+
+As it is, not everybody has equal access to the opportunity to participate in open source. Setting aside massive inequality in who can learn how to write software in the first place, participating in open source requires not just technical expertise, but willingness to tolerate an extremely male-dominated culture and everything that comes with that. Male domination in open source isn't an accident: many people who participate feel more comfortable being in a closed club with other people like themselves. It's essential to the survival to all that we've built in the open-source world that men learn how to empathize and understand experiences that aren't their own. Otherwise, we'll address the needs of only a tiny sector of the population, and will fail at even that.
