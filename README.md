@@ -164,3 +164,6 @@ Open source means to me - EVERYTHING!!	I grew up with a computer and am self tau
 
 Open source means empowerment to me. It allows us to stand on the shoulders of the great people who've come before us, and build something that could genuinely improve the world. I see it to be a modern, practical equivalent to how knowledge spreads in academia. In academia, your research is one small step beyond the great research that has come before you, that you were able to read. That work allowed you to push research forward. In open source, we can freely use what has come before us and push technology forward. And it allows us to do so in a way that doesn't compromise our freedoms.
 
+###[Ken Andersen](http://juicedout.net)
+
+Open source to me means trust. I know I can trust the software because I can go through the code myself and verify the lack of NSA.
