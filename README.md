@@ -26,7 +26,7 @@ have been alternately amazing and super stressful. I've spent time in IRC channe
 where people answer my questions within minutes and take me seriously, and
 in channels where I've been mocked for not knowing things.
 
-I think of open source communities as places that are useful and productive and 
+I think of open source communities as places that are useful and productive and
 supportive also as places where people can be rude and exclusionary and awful.
 Building good communities isn't easy work, and open source isn't magical. We
 can do so well and so badly.
@@ -114,7 +114,7 @@ With time and constructive encouragement, this can become a Community
 of problem solvers and doers to positively change the world. :smiley:
 
 ###[Soumith Chintala](http://github.com/soumith)
-Open source, to me, is an amazing culture that is so antithetic to mainstream society, yet I'm surprised at how it evolves so peacefully but strongly. The sense and strength of community is so powerful, that I couldn't have been happier to be a part of this movement, amazed and humbled by the craziest ideas and work that get shared. In simple words, it changed my life. 
+Open source, to me, is an amazing culture that is so antithetic to mainstream society, yet I'm surprised at how it evolves so peacefully but strongly. The sense and strength of community is so powerful, that I couldn't have been happier to be a part of this movement, amazed and humbled by the craziest ideas and work that get shared. In simple words, it changed my life.
 
 ###[Rich Bowen](http://rcbowen.com/)
 Open Source means that I get to be a small part of solving problems for thousands, or potentially millions, of people that I will never meet. I get to make the world a better place. I feel a great deal of satisfaction every time I see someone using something that I helped make.
@@ -158,9 +158,12 @@ As it is, not everybody has equal access to the opportunity to participate in op
 
 ###[Casey Becking](http://casey.becking.me/)
 
-Open source means to me - EVERYTHING!!	I grew up with a computer and am self taught without open-source I wouldn't be where I am today. I learned everything by seeing what other developer/coders are doing. I started by Viewing Source and changing the code to work with I could. Without learning from someone else I would not be able to take a step back and now teach that to other people. I show them that giving the code back to community only makes the Internet that much better. 
+Open source means to me - EVERYTHING!!	I grew up with a computer and am self taught without open-source I wouldn't be where I am today. I learned everything by seeing what other developer/coders are doing. I started by Viewing Source and changing the code to work with I could. Without learning from someone else I would not be able to take a step back and now teach that to other people. I show them that giving the code back to community only makes the Internet that much better.
 
 ###[Ian Connolly](http://connolly.io)
 
 Open source means empowerment to me. It allows us to stand on the shoulders of the great people who've come before us, and build something that could genuinely improve the world. I see it to be a modern, practical equivalent to how knowledge spreads in academia. In academia, your research is one small step beyond the great research that has come before you, that you were able to read. That work allowed you to push research forward. In open source, we can freely use what has come before us and push technology forward. And it allows us to do so in a way that doesn't compromise our freedoms.
 
+###[Ryan Drake](http://www.twitter.com/iamryandrake)
+
+Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundance life through extravagant giving, and that can happen through the open source community.
