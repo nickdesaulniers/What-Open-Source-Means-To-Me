@@ -159,3 +159,8 @@ As it is, not everybody has equal access to the opportunity to participate in op
 ###[Casey Becking](http://casey.becking.me/)
 
 Open source means to me - EVERYTHING!!	I grew up with a computer and am self taught without open-source I wouldn't be where I am today. I learned everything by seeing what other developer/coders are doing. I started by Viewing Source and changing the code to work with I could. Without learning from someone else I would not be able to take a step back and now teach that to other people. I show them that giving the code back to community only makes the Internet that much better. 
+
+###[Ian Connolly](http://connolly.io)
+
+Open source means empowerment to me. It allows us to stand on the shoulders of the great people who've come before us, and build something that could genuinely improve the world. I see it to be a modern, practical equivalent to how knowledge spreads in academia. In academia, your research is one small step beyond the great research that has come before you, that you were able to read. That work allowed you to push research forward. In open source, we can freely use what has come before us and push technology forward. And it allows us to do so in a way that doesn't compromise our freedoms.
+
