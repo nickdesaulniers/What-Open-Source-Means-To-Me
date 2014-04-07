@@ -177,3 +177,8 @@ Open source to me means trust. I know I can trust the software because I can go 
 
 ###[Ryan Drake](http://www.twitter.com/iamryandrake)
 Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundant life through extravagant giving, and that can happen through the open source community.
+
+###[Maksym Sditanov](http://www.twitter.com/feniksa)
+Open source - это модель открытого взаимодействия людей. Основой взаимодействия является открытость и взаимоуважение, помощь участников. 
+В основном OpenSource используется среди разработчиков программного обеспечения. При разработке ПО исходные коды программы и все нужные средства для сборки программы выкладываются в свободный доступ в сети. Любой человек может посмотреть, как программа устроена, исправить ошибки или добавить новую функциональность. Таким образом люди легко передают идеи, реализацию, улучшения и исправления ПО.
+OpenSource - это круто
