@@ -120,7 +120,7 @@ Open Source means that I get to be a small part of solving problems for thousand
 If each line of code or documentation that I improve helps one person do their job a little better, or get home to their family a few minutes earlier, then it was worth the effort. And, in turn, the work that others have done make my life better and more productive, too.
 
 ###[Daniel Fahlke aka Flyingmana](https://github.com/Flyingmana)
-Open source is important to me because it enables me to give something back to the world and help others to create value. Its about working together, help each other and make everyones live easier.
+Open source is important to me because it enables me to give something back to the world and help others to create value. It's about working together, helping each other and making everyone's life easier.
 
 ###[Randall Leeds](http://bleeds.info/)
 Open Source means to me that access to literacy is a right rather than a privilege and that even if I choose to sell my labor I never forfeit my right to share the resulting abundance.
@@ -137,9 +137,9 @@ As an educator and parent, however, I want to go a step further. Open Source may
 To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will eventually change the world.
 
 ###[William Duyck](http://wduyck.com/)
-Open source is important. Human collaboration across **an open platform is essential to individual growth and our collective future**. That platform is not just a technical implimentation of something, but more an ethos, a way of working together. The open web is the communication tool, open source is the way of working together, and when combined we can play to eachother's strengths to better ourselves and others quicker, more effectively, and with higher value.
+Open source is important. Human collaboration across **an open platform is essential to individual growth and our collective future**. That platform is not just a technical implementation of something, but more an ethos, a way of working together. The open web is the communication tool, open source is the way of working together, and when combined we can play to each other's strengths to better ourselves and others quicker, more effectively, and with higher value.
 
-Open source is not just a licensing agreement, or the ability to look at the code. Its understanding the balance of public vs private. Its the ability to work with others, no matter who they are, where they're from, or what they beleive. **Open source is a way of life**.
+Open source is not just a licensing agreement, or the ability to look at the code. Its understanding the balance of public vs private. Its the ability to work with others, no matter who they are, where they're from, or what they believe. **Open source is a way of life**.
 
 ###[Jim Cresswell](http://twitter.com/JimCresswell)
 Learning and creating in new, better ways.
@@ -181,3 +181,7 @@ Open source means community to me. I love that open source software and services
 ###[Lalatendu Mohanty](https://twitter.com/lalatenduM)
 Open source means freedom, sharing knowledge and a group of people i.e. community coming together to solve a common problem. I think the world will be better with free and open source software. Open source communities are excellent examples of how a bunch of people can make a positive difference to the world.
 
+###[Maksym Sditanov](http://www.twitter.com/feniksa)
+Open source - это модель открытого взаимодействия людей. Основой взаимодействия является открытость и взаимоуважение, помощь участников.
+В основном OpenSource используется среди разработчиков программного обеспечения. При разработке ПО исходные коды программы и все нужные средства для сборки программы выкладываются в свободный доступ в сети. Любой человек может посмотреть, как программа устроена, исправить ошибки или добавить новую функциональность. Таким образом люди легко передают идеи, реализацию, улучшения и исправления ПО.
+OpenSource - это круто
