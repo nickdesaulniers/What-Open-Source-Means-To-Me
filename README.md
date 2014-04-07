@@ -179,4 +179,5 @@ Open source to me means trust. I know I can trust the software because I can go 
 Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundant life through extravagant giving, and that can happen through the open source community.
 
 ###[Lalatendu Mohanty](https://twitter.com/lalatenduM)
-Open source means freedom, sharing knowledge and a group of people i.e. community coming together to solve a common problem. I think the world will be better with free and open source  software. open source communities are excellent examples of how a bunch of people can make a positive diference to the world.
+Open source means freedom, sharing knowledge and a group of people i.e. community coming together to solve a common problem. I think the world will be better with free and open source software. Open source communities are excellent examples of how a bunch of people can make a positive difference to the world.
+
