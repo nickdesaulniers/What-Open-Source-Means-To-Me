@@ -127,6 +127,11 @@ Open source is important to me because it enables me to give something back to t
 ###[Randall Leeds](http://bleeds.info/)
 Open Source means to me that access to literacy is a right rather than a privilege and that even if I choose to sell my labor I never forfeit my right to share the resulting abundance.
 
+###[Doug Belshaw](https://dougbelshaw.com/)
+Open source to me has moved from a 'nice to have' (1997 when I first downloaded Red Hat Linux) to something that's essential for trust, transparency, and solidarity (2013/14 post-Snowden era). Like the pull request that created *this* contribution, I want to be able to collaborate, give feedback and discuss the tools that I use in a meaningful way.
+
+As an educator and parent, however, I want to go a step further. Open Source may be a technological method of production, but it's also a wider approach to life. I believe in human flourishing and the Open Source way - with its focus on participation and different notions of 'ownership' really resonate with me.
+
 ###[Adam Lofting](http://adamlofting.com)
 Open Source, to me, means using our combined energy to iterate on, rather than replicate, the work of those before us; and enabling those who follow us to do the same.
 
@@ -170,3 +175,4 @@ Open source means empowerment to me. It allows us to stand on the shoulders of t
 ###[Ken Andersen](http://juicedout.net)
 
 Open source to me means trust. I know I can trust the software because I can go through the code myself and verify the lack of NSA.
+
