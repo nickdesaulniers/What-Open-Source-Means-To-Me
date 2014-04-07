@@ -15,7 +15,6 @@ allowed from any and all instead of exclusive rings of those employed by any
 one organization.
 
 ### [Julia Evans](http://jvns.ca)
-
 Open source means that I have a computer with amazing software on it that's
 available for free. I do almost all my work using Linux, Python, Ruby, Perl,
 GNU tools. It means we have Wikipedia. I literally can't imagine a world
@@ -39,7 +38,6 @@ El Open Source permite crear comunidades, lazos, permite que un completo descono
 se convierta en el beneficio de todos.
 
 ### [Robert Nyman](http://robertnyman.com/)
-
 Open source means, at the end of the day, sharing. Sharing our knowledge, experiences and learning but also being open and humble for contributions, other perspectives and ideas. The essence of how mankind should work together to create something better and more inclusive while being transparent with our work.
 
 ###[Gervase Markham](http://www.gerv.net/)
@@ -127,21 +125,21 @@ Open source is important to me because it enables me to give something back to t
 ###[Randall Leeds](http://bleeds.info/)
 Open Source means to me that access to literacy is a right rather than a privilege and that even if I choose to sell my labor I never forfeit my right to share the resulting abundance.
 
+###[Adam Lofting](http://adamlofting.com)
+Open Source, to me, means using our combined energy to iterate on, rather than replicate, the work of those before us; and enabling those who follow us to do the same.
+
 ###[Doug Belshaw](https://dougbelshaw.com/)
 Open source to me has moved from a 'nice to have' (1997 when I first downloaded Red Hat Linux) to something that's essential for trust, transparency, and solidarity (2013/14 post-Snowden era). Like the pull request that created *this* contribution, I want to be able to collaborate, give feedback and discuss the tools that I use in a meaningful way.
 
 As an educator and parent, however, I want to go a step further. Open Source may be a technological method of production, but it's also a wider approach to life. I believe in human flourishing and the Open Source way - with its focus on participation and different notions of 'ownership' really resonate with me.
 
-###[Adam Lofting](http://adamlofting.com)
-Open Source, to me, means using our combined energy to iterate on, rather than replicate, the work of those before us; and enabling those who follow us to do the same.
+###[Jeff Poyzner](http://risebird.tumblr.com/)
+To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will eventually change the world.
 
 ###[William Duyck](http://wduyck.com/)
 Open source is important. Human collaboration across **an open platform is essential to individual growth and our collective future**. That platform is not just a technical implimentation of something, but more an ethos, a way of working together. The open web is the communication tool, open source is the way of working together, and when combined we can play to eachother's strengths to better ourselves and others quicker, more effectively, and with higher value.
 
 Open source is not just a licensing agreement, or the ability to look at the code. Its understanding the balance of public vs private. Its the ability to work with others, no matter who they are, where they're from, or what they beleive. **Open source is a way of life**.
-
-###[Jeff Poyzner](http://risebird.tumblr.com/)
-To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will eventually change the world.
 
 ###[Jim Cresswell](http://twitter.com/JimCresswell)
 Learning and creating in new, better ways.
@@ -164,24 +162,19 @@ To me Open Source is a tool in the activist toolbox.  It's how we can get things
 Open Source is a collective ownership of code, process and values to create something bigger and more universally-valuable than a centrally-controlled, commercially-prioritized entity can do. It's shared creation and participation as well as consumption.
 
 ###[Tim Chevalier](http://catamorphism.org/)
-
 To me, open source means that different people can come together to make things, share knowledge, and help each other in a way that isn't driven by capitalism. Just as you might give your friend a ride to the airport, babysit their child, or even just sit with them and listen to them talk about their problems for no monetary reward, contributing to open source is not a simple economic transaction. It's true that most people get back more than they give, but what makes contributing to an open-source project worthwhile is something other than immediate financial gain. Often, it's just the knowledge that you are part of something bigger than yourself.
 
 As it is, not everybody has equal access to the opportunity to participate in open source. Setting aside massive inequality in who can learn how to write software in the first place, participating in open source requires not just technical expertise, but willingness to tolerate an extremely male-dominated culture and everything that comes with that. Male domination in open source isn't an accident: many people who participate feel more comfortable being in a closed club with other people like themselves. It's essential to the survival to all that we've built in the open-source world that men learn how to empathize and understand experiences that aren't their own. Otherwise, we'll address the needs of only a tiny sector of the population, and will fail at even that.
 
 ###[Casey Becking](http://casey.becking.me/)
-
 Open source means to me - EVERYTHING!!	I grew up with a computer and am self taught without open-source I wouldn't be where I am today. I learned everything by seeing what other developer/coders are doing. I started by Viewing Source and changing the code to work with I could. Without learning from someone else I would not be able to take a step back and now teach that to other people. I show them that giving the code back to community only makes the Internet that much better.
 
 ###[Ian Connolly](http://connolly.io)
-
 Open source means empowerment to me. It allows us to stand on the shoulders of the great people who've come before us, and build something that could genuinely improve the world. I see it to be a modern, practical equivalent to how knowledge spreads in academia. In academia, your research is one small step beyond the great research that has come before you, that you were able to read. That work allowed you to push research forward. In open source, we can freely use what has come before us and push technology forward. And it allows us to do so in a way that doesn't compromise our freedoms.
 
-###[Ryan Drake](http://www.twitter.com/iamryandrake)
-
-Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundant life through extravagant giving, and that can happen through the open source community.
-
 ###[Ken Andersen](http://juicedout.net)
-
 Open source to me means trust. I know I can trust the software because I can go through the code myself and verify the lack of NSA.
+
+###[Ryan Drake](http://www.twitter.com/iamryandrake)
+Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundant life through extravagant giving, and that can happen through the open source community.
 
