@@ -179,7 +179,7 @@ Open source means empowerment to me. It allows us to stand on the shoulders of t
 
 ###[Ryan Drake](http://www.twitter.com/iamryandrake)
 
-Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundance life through extravagant giving, and that can happen through the open source community.
+Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundant life through extravagant giving, and that can happen through the open source community.
 
 ###[Ken Andersen](http://juicedout.net)
 
