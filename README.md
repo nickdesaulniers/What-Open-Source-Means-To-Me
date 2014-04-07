@@ -189,3 +189,12 @@ OpenSource - это круто
 ###[Arvid Warnecke](http://github.com/madhatter)
 Open Source bedeuted für mich Freiheit und Unabhängigkeit. Durch Open Source ist es möglich viel verschiedene Software nutzen zu können, so dass man nicht von einer einzigen Software abhängig ist. Außerdem ist es möglich bestehende Software um Funktionen zu erweitern und diese wiederum anderen zugänglich zu machen. Dadurch kann umfangreiche und großartige Software entstehen.  
 Außerdem ist es möglich bereits vorhandenen Code zu studieren und daraus für eigene Projekte zu lernen. Open Source ist das Beste was Software passieren kann.
+
+###[Philipp Nowinski](http://philippnowinski.de)
+Open Source means to me the freedom of using software I can trust, software I can extend and software that is available for everybody.
+
+It also stands for software that is built by people coming together from all over the world, sharing their knowledge with each other, no matter which country they come from, what god they believe in, or which political views they support.
+
+Open Source means connecting people, starting dialogs and building things that nobody could build on his own. It gives people a voice that otherwise would not be heard.
+
+At the end of the day, to me, Open Source means a small step in the right direction - not only for software.
