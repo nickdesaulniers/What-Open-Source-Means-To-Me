@@ -135,6 +135,11 @@ As an educator and parent, however, I want to go a step further. Open Source may
 ###[Adam Lofting](http://adamlofting.com)
 Open Source, to me, means using our combined energy to iterate on, rather than replicate, the work of those before us; and enabling those who follow us to do the same.
 
+###[William Duyck](http://wduyck.com/)
+Open source is important. Human collaboration across **an open platform is essential to individual growth and our collective future**. That platform is not just a technical implimentation of something, but more an ethos, a way of working together. The open web is the communication tool, open source is the way of working together, and when combined we can play to eachother's strengths to better ourselves and others quicker, more effectively, and with higher value.
+
+Open source is not just a licensing agreement, or the ability to look at the code. Its understanding the balance of public vs private. Its the ability to work with others, no matter who they are, where they're from, or what they beleive. **Open source is a way of life**.
+
 ###[Jeff Poyzner](http://risebird.tumblr.com/)
 To me open source means not hiding how you made something so that anyone else can see it, use it, redo it, remake it, live with it, pass it on...as a blogger and book writer I create things so that others can use them. My goal is to change the world, and if you create something powerful enough, it doesn't matter what human channels it goes through...it will eventually change the world.
 
