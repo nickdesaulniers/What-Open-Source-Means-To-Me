@@ -116,6 +116,9 @@ of problem solvers and doers to positively change the world. :smiley:
 ###[Soumith Chintala](http://github.com/soumith)
 Open source, to me, is an amazing culture that is so antithetic to mainstream society, yet I'm surprised at how it evolves so peacefully but strongly. The sense and strength of community is so powerful, that I couldn't have been happier to be a part of this movement, amazed and humbled by the craziest ideas and work that get shared. In simple words, it changed my life. 
 
+###[Daniel Fahlke aka Flyingmana](https://github.com/Flyingmana)
+Open source is important to me because it enables me to give something back to the world and help others to create value. Its about working together, help each other and make everyones live easier.
+
 ###[Rich Bowen](http://rcbowen.com/)
 Open Source means that I get to be a small part of solving problems for thousands, or potentially millions, of people that I will never meet. I get to make the world a better place. I feel a great deal of satisfaction every time I see someone using something that I helped make.
 
