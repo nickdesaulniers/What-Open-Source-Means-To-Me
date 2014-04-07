@@ -178,3 +178,7 @@ Open source to me means trust. I know I can trust the software because I can go 
 ###[Ryan Drake](http://www.twitter.com/iamryandrake)
 Open source means community to me. I love that open source software and services connects a community of people, potentially from around the world, beyond monetary means. Open source is about realising that we all benefit when we can give back and share with one another, and that each of our stories and gifts are all intertwined. We can live an abundant life through extravagant giving, and that can happen through the open source community.
 
+###[Arvid Warnecke](http://github.com/madhatter)
+Open Source bedeuted für mich Freiheit und Unabhängigkeit. Durch Open Source ist es möglich viel verschiedene Software nutzen zu können, so dass man nicht von einer einzigen Software abhängig ist. Außerdem ist es möglich bestehende Software um Funktionen zu erweitern und diese wiederum anderen zugänglich zu machen. Dadurch kann umfangreiche und großartige Software entstehen.  
+Außerdem ist es möglich bereits vorhandenen Code zu studieren und daraus für eigene Projekte zu lernen. Open Source ist das Beste was Software passieren kann.
+
