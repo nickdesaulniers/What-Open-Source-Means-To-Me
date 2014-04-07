@@ -185,3 +185,7 @@ Open source means freedom, sharing knowledge and a group of people i.e. communit
 Open source - это модель открытого взаимодействия людей. Основой взаимодействия является открытость и взаимоуважение, помощь участников.
 В основном OpenSource используется среди разработчиков программного обеспечения. При разработке ПО исходные коды программы и все нужные средства для сборки программы выкладываются в свободный доступ в сети. Любой человек может посмотреть, как программа устроена, исправить ошибки или добавить новую функциональность. Таким образом люди легко передают идеи, реализацию, улучшения и исправления ПО.
 OpenSource - это круто
+
+###[Arvid Warnecke](http://github.com/madhatter)
+Open Source bedeuted für mich Freiheit und Unabhängigkeit. Durch Open Source ist es möglich viel verschiedene Software nutzen zu können, so dass man nicht von einer einzigen Software abhängig ist. Außerdem ist es möglich bestehende Software um Funktionen zu erweitern und diese wiederum anderen zugänglich zu machen. Dadurch kann umfangreiche und großartige Software entstehen.  
+Außerdem ist es möglich bereits vorhandenen Code zu studieren und daraus für eigene Projekte zu lernen. Open Source ist das Beste was Software passieren kann.
