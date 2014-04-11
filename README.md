@@ -198,3 +198,6 @@ It also stands for software that is built by people coming together from all ove
 Open Source means connecting people, starting dialogs and building things that nobody could build on his own. It gives people a voice that otherwise would not be heard.
 
 At the end of the day, to me, Open Source means a small step in the right direction - not only for software.
+
+###[Remy Sharp](http://twitter.com/rem)
+Open Source, to me, means: *welcome*. Welcome to this code I wrote. Help yourself to bits you like or need. Help make it better for others. Help make it yours. Help make me better with your suggestions, changes or discussion. Use the code in any way you want, in ways I never thought of. And if the projects I created lives on without me, then open source has worked.
