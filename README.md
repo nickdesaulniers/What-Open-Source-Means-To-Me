@@ -205,7 +205,7 @@ Open Source, to me, means: *welcome*. Welcome to this code I wrote. Help yoursel
 ###[Hemanth.HM](http://h3manth.com)
 Open Source means freedom to make mistakes, learn, share, it's about community spirit!
 
-It has helped me to become a better person, not just the coding aspect, but a lot of other factors, it has taught me to think, to accept criticisms, to advice, to be organized, to be disciplined, to laugh at yourself, to help each other without expecting, to grow!
+It has helped me to become a better person, not just the coding aspect, but a lot of other factors, it has taught me to think, to accept criticisms, to advise, to be organized, to be disciplined, to laugh at yourself, to help each other without expecting, to grow!
 
 **Free** and Open software is about sharing and caring :heart: Same principles have made my life better.
 
