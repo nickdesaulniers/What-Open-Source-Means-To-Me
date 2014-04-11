@@ -201,3 +201,17 @@ At the end of the day, to me, Open Source means a small step in the right direct
 
 ###[Remy Sharp](http://twitter.com/rem)
 Open Source, to me, means: *welcome*. Welcome to this code I wrote. Help yourself to bits you like or need. Help make it better for others. Help make it yours. Help make me better with your suggestions, changes or discussion. Use the code in any way you want, in ways I never thought of. And if the projects I created lives on without me, then open source has worked.
+
+###[Hemanth.HM](http://h3manth.com)
+Open Source means freedom to make mistakes, learn, share, it's about community spirit!
+
+It has helped me to become a better person, not just the coding aspect, but a lot of other factors, it has taught me to think, to accept criticisms, to advice, to be organized, to be disciplined, to laugh at yourself, to help each other without expecting, to grow!
+
+**Free** and Open software is about sharing and caring :heart: Same principles have made my life better.
+
+It has helped me to realize myself, to realize the fact there are many humble people out there, who are down to Earth even after reaching the pinnacle of software development.
+
+> I'm what I am, beacuse of what you all are!
+
+:+1:
+
