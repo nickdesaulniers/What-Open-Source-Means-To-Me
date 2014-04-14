@@ -215,3 +215,8 @@ It has helped me to realize myself, to realize the fact there are many humble pe
 
 :+1:
 
+###[Jelle Kralt](http://twitter.com/jellekralt)
+Open Source, betekent voor mij de vrijheid om code te delen en verbeteren. Het staat voor software die die door iedereen kan worden bekeken, en zo nodig, verbeterd. Het helpt ontwikkelaars om zichzelf te verbeteren door te leren van de code van andere ontwikkelaars. Door te ontwikkelen aan open source code geef je iets weg, maar in ruil daarvoor krijg je zo veel kennis en ervaring terug, dat is onbetaalbaar. Daarnaast is het geweldig als mensen dankbaar gebruik maken met de code die je geschreven hebt.
+
+Het feit dat open source software 'gratis' is te gebruiken, is in mijn optiek een mooie bijkomstigheid, het feit dat het 'open' en 'vrij' is, vind ik echter veel belangrijker. De hele wereld heeft de mogelijkheid om de software te verbeteren en om mogelijke fouten in de code op te lossen. Op deze manier wordt software commit voor commit een stukje mooier. :smiley:
+
