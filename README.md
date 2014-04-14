@@ -216,6 +216,6 @@ It has helped me to realize myself, to realize the fact there are many humble pe
 :+1:
 
 ###[Amit Merchant](http://github.com/amitmerchant1990)
-Open source to me is developing something to your heart's content and publish it to the world with the bottom of your heart :heart:. Open source for me is also a way to make the world a better place just by the things you made(no matter how little they are!) and feeling the immense pleasure of contributing something to the world.
+Open source to me is developing something to your heart's content and publish it to the world with the bottom of your heart :heart:. Open source for me is also a way to make the world a better place just by the things you made(no matter how little they are!) and feeling the immense pleasure of contributing something to the outside world.
 
 **Open source is a part of me.** :innocent:
