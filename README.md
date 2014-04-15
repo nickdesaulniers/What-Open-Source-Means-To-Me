@@ -220,3 +220,7 @@ Open Source, betekent voor mij de vrijheid om code te delen en verbeteren. Het s
 
 Het feit dat open source software 'gratis' is te gebruiken, is in mijn optiek een mooie bijkomstigheid, het feit dat het 'open' en 'vrij' is, vind ik echter veel belangrijker. De hele wereld heeft de mogelijkheid om de software te verbeteren en om mogelijke fouten in de code op te lossen. Op deze manier wordt software commit voor commit een stukje mooier. :smiley:
 
+###[Amit Merchant](http://github.com/amitmerchant1990)
+Open source to me is developing something to your heart's content and publish it to the world with the bottom of your heart :heart:. Open source for me is also a way to make the world a better place just by the things you made(no matter how little they are!) and feeling the immense pleasure of contributing something to the outside world.
+
+**Open source is a part of me.** :innocent:
