@@ -224,3 +224,6 @@ Het feit dat open source software 'gratis' is te gebruiken, is in mijn optiek ee
 Open source to me is developing something to your heart's content and publish it to the world with the bottom of your heart :heart:. Open source for me is also a way to make the world a better place just by the things you made(no matter how little they are!) and feeling the immense pleasure of contributing something to the outside world.
 
 **Open source is a part of me.** :innocent:
+
+###[Scott Griffy](https://github.com/happypandaface)
+Open source means that I can expand my knowledge outside of school and be part of global scale projects. I may not be making a big impact right now but with hard work and education I can do amazing things for the world.
