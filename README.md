@@ -227,3 +227,4 @@ Open source to me is developing something to your heart's content and publish it
 
 ###[Scott Griffy](https://github.com/happypandaface)
 Open source means that I can expand my knowledge outside of school and be part of global scale projects. I may not be making a big impact right now but with hard work and education I can do amazing things for the world.
+
