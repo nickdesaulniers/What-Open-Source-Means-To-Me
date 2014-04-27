@@ -235,5 +235,5 @@ I hope one day I see these, too:
 
 + Open Source Goverment
 + Open Source Law
-+ [Open Source Life](https://github.com/gitlife) -> [If anybody wants to help me strart this, please... contact me]
++ [Open Source Life](https://github.com/gitlife) ➡ [If anybody wants to help me start this, please... contact me]
 
