@@ -228,3 +228,12 @@ Open source to me is developing something to your heart's content and publish it
 ###[Scott Griffy](https://github.com/happypandaface)
 Open source means that I can expand my knowledge outside of school and be part of global scale projects. I may not be making a big impact right now but with hard work and education I can do amazing things for the world.
 
+###[Mohammad Hossein Mojtahedi](http://twitter.com/mhm5000)
+Open source is like a glass of water to me, which never runs out of water and makes me thirstier each time that I drink from it.
+
+I hope one day I see these, too:
+
++ Open Source Goverment
++ Open Source Law
++ [Open Source Life](https://github.com/gitlife) -> [If anybody wants to help me strart this, please... contact me]
+
