@@ -231,14 +231,14 @@ Open source means that I can expand my knowledge outside of school and be part o
 ###[Mohammad Hossein Mojtahedi](http://twitter.com/mhm5000)
 Open source is like a glass of water to me, which never runs out of water and makes me thirstier each time that I drink from it.
 
-###[Mike McQuaid](http://mikemcquaid.com)
-Open source means not reinventing the wheel again. Open source means collaborating so everyone can benefit from the work we do in our spare time. Open source means a community running a successful project without any incentives beyond doing a good job.
-
 I hope one day I see these, too:
 
 + Open Source Goverment
 + Open Source Law
 + [Open Source Life](https://github.com/gitlife) ➡ [If anybody wants to help me start this, please... contact me]
+
+###[Mike McQuaid](http://mikemcquaid.com)
+Open source means not reinventing the wheel again. Open source means collaborating so everyone can benefit from the work we do in our spare time. Open source means a community running a successful project without any incentives beyond doing a good job.
 
 ###[Joseph Werle](https://twitter.com/josephwerle)
 Open source to me means the opportunity to share an experience with others whom I've never met. To share in the crafting of something in which we all share a common belief. Its a common goal among others and a trust with people whom you most likely do not share moments of your life with. Its free knowledge and cultivates a community of sharing it for the sake of sharing knowledge ! Not only is the source open, but information, knowledge, communication, and opportunity follow. Open source is a way of life, a philosophy, a self declaring manifesto for the commitment to collaboration in all things information. It breeds the great and filters out the bad. 
