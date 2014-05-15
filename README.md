@@ -231,6 +231,9 @@ Open source means that I can expand my knowledge outside of school and be part o
 ###[Mohammad Hossein Mojtahedi](http://twitter.com/mhm5000)
 Open source is like a glass of water to me, which never runs out of water and makes me thirstier each time that I drink from it.
 
+###[Mike McQuaid](http://mikemcquaid.com)
+Open source means not reinventing the wheel again. Open source means collaborating so everyone can benefit from the work we do in our spare time. Open source means a community running a successful project without any incentives beyond doing a good job.
+
 I hope one day I see these, too:
 
 + Open Source Goverment
