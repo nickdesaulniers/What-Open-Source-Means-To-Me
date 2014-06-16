@@ -243,4 +243,8 @@ Open source means not reinventing the wheel again. Open source means collaborati
 ###[Joseph Werle](https://twitter.com/josephwerle)
 Open source to me means the opportunity to share an experience with others whom I've never met. To share in the crafting of something in which we all share a common belief. Its a common goal among others and a trust with people whom you most likely do not share moments of your life with. Its free knowledge and cultivates a community of sharing it for the sake of sharing knowledge ! Not only is the source open, but information, knowledge, communication, and opportunity follow. Open source is a way of life, a philosophy, a self declaring manifesto for the commitment to collaboration in all things information. It breeds the great and filters out the bad. 
 
-
+###[Phil Plückthun](https://plckthn.me)
+Open Source, to me, means that the community solves a complex problem, which cannot be solved by an individual. Solutions can then be reused in additonal attempts to solve an even bigger problem.
+Open source is the greatest invention to make people work together, to collaborate, to get to a goal quickly, to be human. It isn't just a big thing in software development. It is the next industrial revolution, the next big thing in social media, the next game changer.
+We all can use a bit more collaboration! Open Source makes *it* possible.
+What is *it*? In my opinion every goal we want to achieve!
