@@ -248,3 +248,10 @@ Open Source, to me, means that the community solves a complex problem, which can
 Open source is the greatest invention to make people work together, to collaborate, to get to a goal quickly, to be human. It isn't just a big thing in software development. It is the next industrial revolution, the next big thing in social media, the next game changer.
 We all can use a bit more collaboration! Open Source makes *it* possible.
 What is *it*? In my opinion every goal we want to achieve!
+
+
+###[Manish Goregaokar](http://inpursuitoflaziness.blogspot.in)
+
+Open source is important to me because it reminds me every day that the software I use is mine to modify; to improve to my tastes. My complaints about a software are partially directed to myself, since it is in my power to fix it.
+
+With open source, I can give back to the world in a great manner. Implementing even a small feature for a large project sometimes gets you thank-yous from across the globe. This is a wonderful feeling, and it makes me want to get even more involved. With this symbiotic relation, I get to learn, develop, interact, and code, all the while being useful to the rest of the world. Open source is an undying philosophy that should be upheld for the days to come!
