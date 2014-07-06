@@ -255,3 +255,8 @@ What is *it*? In my opinion every goal we want to achieve!
 Open source is important to me because it reminds me every day that the software I use is mine to modify; to improve to my tastes. My complaints about a software are partially directed to myself, since it is in my power to fix it.
 
 With open source, I can give back to the world in a great manner. Implementing even a small feature for a large project sometimes gets you thank-yous from across the globe. This is a wonderful feeling, and it makes me want to get even more involved. With this symbiotic relation, I get to learn, develop, interact, and code, all the while being useful to the rest of the world. Open source is an undying philosophy that should be upheld for the days to come!
+
+
+###[Sudheesh Singanamalla](http://www.sudheesh.info)
+Open source to me means the ability to collaborate with different people to build tools that impact everyone using it at large. At the same time it means an opportunity to meet new and like minded people with a common goal and an opportunity to realize how working in the spare time can successfully impact the lives of millions of users.
+It gives me the ability to positively impact the world working with many people, making new friends and keep things transparent. A way to learn from new people, share existing knowledge and most of all *grow*. It feels great to know that those little lines of code that I write has in some manner or the other impacted the lives of so many people and open source which gives me the power to do that, thus makes me more responsible to build a stronger community and collaborate with more people. Open source is the best thing that could happen.
