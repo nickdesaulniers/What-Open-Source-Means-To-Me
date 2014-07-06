@@ -255,3 +255,11 @@ What is *it*? In my opinion every goal we want to achieve!
 Open source is important to me because it reminds me every day that the software I use is mine to modify; to improve to my tastes. My complaints about a software are partially directed to myself, since it is in my power to fix it.
 
 With open source, I can give back to the world in a great manner. Implementing even a small feature for a large project sometimes gets you thank-yous from across the globe. This is a wonderful feeling, and it makes me want to get even more involved. With this symbiotic relation, I get to learn, develop, interact, and code, all the while being useful to the rest of the world. Open source is an undying philosophy that should be upheld for the days to come!
+
+###[Patrick Metzdorf](http://github.com/batjko)
+
+Open Source, to me, is a world of learning, of accelerated progress and ever renewed respect and appreciation for mankind's ability to mix creative ingenuity with selfless cooperation. 
+
+I have been dipping my toes into Open Source only a few months ago, drawn in by the wider Github community and the incredible work that it generates. And I am already convinced that this is where the future of technological progress lies. In all likelihood also that of education, scientific exploration and application; as well as social organization, in more ways than we can imagine today. 
+Undoubtedly, the collective minds of Open Source thinkers will be able to bring its benefits and opportunities to areas of society which we may yet think of as forever closed to such innovation. 
+I, for one, can't wait.
