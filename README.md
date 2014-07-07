@@ -255,3 +255,6 @@ What is *it*? In my opinion every goal we want to achieve!
 Open source is important to me because it reminds me every day that the software I use is mine to modify; to improve to my tastes. My complaints about a software are partially directed to myself, since it is in my power to fix it.
 
 With open source, I can give back to the world in a great manner. Implementing even a small feature for a large project sometimes gets you thank-yous from across the globe. This is a wonderful feeling, and it makes me want to get even more involved. With this symbiotic relation, I get to learn, develop, interact, and code, all the while being useful to the rest of the world. Open source is an undying philosophy that should be upheld for the days to come!
+
+###[&! (bitandbang)](https://bnb.cupcake.is/profile)
+Open source is important to me because I want to help other developers create amazing things, and I want whatever aid they're willing to give me to create my own amazing things. Open source can mean many things, but the ideals remain the same: help your fellow web workers. Help them learn, help them build, help them grow. It's a community effort. Without community, open source wouldn't exist.
