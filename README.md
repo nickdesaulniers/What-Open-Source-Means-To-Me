@@ -265,3 +265,6 @@ I have been dipping my toes into Open Source only a few months ago, drawn in by 
 Undoubtedly, the collective minds of Open Source thinkers will be able to bring its benefits and opportunities to areas of society which we may yet think of as forever closed to such innovation. 
 I, for one, can't wait.
 
+###[&! (bitandbang)](https://bnb.cupcake.is/profile)
+Open source is important to me because I want to help other developers create amazing things, and I want whatever aid they're willing to give me to create my own amazing things. Open source can mean many things, but the ideals remain the same: help your fellow web workers. Help them learn, help them build, help them grow. It's a community effort. Without community, open source wouldn't exist.
+
