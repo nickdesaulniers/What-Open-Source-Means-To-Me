@@ -187,7 +187,7 @@ Open source - это модель открытого взаимодействи�
 OpenSource - это круто
 
 ###[Arvid Warnecke](http://github.com/madhatter)
-Open Source bedeuted für mich Freiheit und Unabhängigkeit. Durch Open Source ist es möglich viel verschiedene Software nutzen zu können, so dass man nicht von einer einzigen Software abhängig ist. Außerdem ist es möglich bestehende Software um Funktionen zu erweitern und diese wiederum anderen zugänglich zu machen. Dadurch kann umfangreiche und großartige Software entstehen.  
+Open Source bedeuted für mich Freiheit und Unabhängigkeit. Durch Open Source ist es möglich viel verschiedene Software nutzen zu können, so dass man nicht von einer einzigen Software abhängig ist. Außerdem ist es möglich bestehende Software um Funktionen zu erweitern und diese wiederum anderen zugänglich zu machen. Dadurch kann umfangreiche und großartige Software entstehen.
 Außerdem ist es möglich bereits vorhandenen Code zu studieren und daraus für eigene Projekte zu lernen. Open Source ist das Beste was Software passieren kann.
 
 ###[Philipp Nowinski](http://philippnowinski.de)
@@ -241,7 +241,7 @@ I hope one day I see these, too:
 Open source means not reinventing the wheel again. Open source means collaborating so everyone can benefit from the work we do in our spare time. Open source means a community running a successful project without any incentives beyond doing a good job.
 
 ###[Joseph Werle](https://twitter.com/josephwerle)
-Open source to me means the opportunity to share an experience with others whom I've never met. To share in the crafting of something in which we all share a common belief. Its a common goal among others and a trust with people whom you most likely do not share moments of your life with. Its free knowledge and cultivates a community of sharing it for the sake of sharing knowledge ! Not only is the source open, but information, knowledge, communication, and opportunity follow. Open source is a way of life, a philosophy, a self declaring manifesto for the commitment to collaboration in all things information. It breeds the great and filters out the bad. 
+Open source to me means the opportunity to share an experience with others whom I've never met. To share in the crafting of something in which we all share a common belief. Its a common goal among others and a trust with people whom you most likely do not share moments of your life with. Its free knowledge and cultivates a community of sharing it for the sake of sharing knowledge ! Not only is the source open, but information, knowledge, communication, and opportunity follow. Open source is a way of life, a philosophy, a self declaring manifesto for the commitment to collaboration in all things information. It breeds the great and filters out the bad.
 
 ###[Phil Plückthun](https://plckthn.me)
 Open Source, to me, means that the community solves a complex problem, which cannot be solved by an individual. Solutions can then be reused in additonal attempts to solve an even bigger problem.
@@ -259,12 +259,19 @@ Open source to me means the ability to collaborate with different people to buil
 It gives me the ability to positively impact the world working with many people, making new friends and keep things transparent. A way to learn from new people, share existing knowledge and most of all *grow*. It feels great to know that those little lines of code that I write has in some manner or the other impacted the lives of so many people and open source which gives me the power to do that, thus makes me more responsible to build a stronger community and collaborate with more people. Open source is the best thing that could happen.
 
 ###[Patrick Metzdorf](http://github.com/batjko)
-Open Source, to me, is a world of learning, of accelerated progress and ever renewed respect and appreciation for mankind's ability to mix creative ingenuity with selfless cooperation. 
+Open Source, to me, is a world of learning, of accelerated progress and ever renewed respect and appreciation for mankind's ability to mix creative ingenuity with selfless cooperation.
 
-I have been dipping my toes into Open Source only a few months ago, drawn in by the wider Github community and the incredible work that it generates. And I am already convinced that this is where the future of technological progress lies. In all likelihood also that of education, scientific exploration and application; as well as social organization, in more ways than we can imagine today. 
-Undoubtedly, the collective minds of Open Source thinkers will be able to bring its benefits and opportunities to areas of society which we may yet think of as forever closed to such innovation. 
+I have been dipping my toes into Open Source only a few months ago, drawn in by the wider Github community and the incredible work that it generates. And I am already convinced that this is where the future of technological progress lies. In all likelihood also that of education, scientific exploration and application; as well as social organization, in more ways than we can imagine today.
+Undoubtedly, the collective minds of Open Source thinkers will be able to bring its benefits and opportunities to areas of society which we may yet think of as forever closed to such innovation.
 I, for one, can't wait.
 
 ###[&! (bitandbang)](https://bnb.cupcake.is/profile)
 Open source is important to me because I want to help other developers create amazing things, and I want whatever aid they're willing to give me to create my own amazing things. Open source can mean many things, but the ideals remain the same: help your fellow web workers. Help them learn, help them build, help them grow. It's a community effort. Without community, open source wouldn't exist.
+
+###[Sean Tilley](https://joindiaspora.com/u/deadsuperhero)
+If I had to sum up what Free and Open Source software is about, I'd have to say that at its core, it is a hybrid between a gift economy, developmental collaboration, and academic experimentation. So many different projects have the capacity to serve as the atomic building blocks that other projects can use to create a greater whole, and many projects can build upon the work of each other for free. That is wonderful.
+
+So many things are built upon Free and Open Source technology these days: operating systems, desktop computers, tablets, mobile devices, routers, servers, web applications, code frameworks, compilers, libraries, for starters. These are all phenomenons tied together as the result of people around the world wondering about a problem, scratching their own itches, and eventually coming together to make something bigger and better. It's wonderful, and I can only hope that many more of these kinds of projects will spring up, gain momentum, and work together in the future.
+
+This is the kind of technology that enables people to do so much more than what their proprietary counterparts could ever provide.
 
