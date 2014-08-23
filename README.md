@@ -275,7 +275,7 @@ So many things are built upon Free and Open Source technology these days: operat
 
 This is the kind of technology that enables people to do so much more than what their proprietary counterparts could ever provide.
 
-###[Chris Mills](Link to your blog/twitter)
+###[Chris Mills](https://twitter.com/chrisdavidmills)
 
 Open source provides a way for humanity to learn, share, achieve, and progress together, rather than being at odds all the time. I love being able to share my knowledge with others in a way that doesn't require charges, and agreements, and red tape, every step of the way. I also love that at the same time my work is protected against self-serving types who would seek just to capitalize on it, and lock it away. It isn't the only way to publish work, but it is a choice that **absolutely** must be available.
 
