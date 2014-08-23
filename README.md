@@ -275,3 +275,26 @@ So many things are built upon Free and Open Source technology these days: operat
 
 This is the kind of technology that enables people to do so much more than what their proprietary counterparts could ever provide.
 
+###[Chris Mills](Link to your blog/twitter)
+
+Open source provides a way for humanity to learn, share, achieve, and progress together, rather than being at odds all the time. I love being able to share my knowledge with others in a way that doesn't require charges, and agreements, and red tape, every step of the way. I also love that at the same time my work is protected against self-serving types who would seek just to capitalize on it, and lock it away. It isn't the only way to publish work, but it is a choice that **absolutely** must be available.
+
+As an extension of this, open source allows the populous — real people like me and you — to have more control over their destinies and understand how the tools they use work and what they are doing, rather than leaving everything in the hands of the governments, corporates and lawmakers. Who, let's face it, often haven't got our best interests at heart.
+
+Some quotes that I hold dear, and I think are relevant:
+
+> Freedom is a road seldom traveled by the multitude.
+
+Frederick Douglass, abolitionist.
+
+> Wait, what are you talking about, we decided!?
+> My best interest?! How can you know what my best interest is?
+
+Mike Muir, Suicidal Tendencies", *"Institutionalized"*
+
+> Education is the most powerful weapon which you can use to change the world
+
+Nelson Mandela (thanks Mariona, for this one!)
+
+**So forge your own destiny. Choose life. Choose open source <img class="emoji" title=":smiley:" alt=":smiley:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png" align="absmiddle" height="20" width="20">**
+
