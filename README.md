@@ -290,7 +290,7 @@ Frederick Douglass, abolitionist.
 > Wait, what are you talking about, we decided!?
 > My best interest?! How can you know what my best interest is?
 
-Mike Muir, Suicidal Tendencies", *"Institutionalized"*
+Mike Muir, Suicidal Tendencies, *"Institutionalized"*
 
 > Education is the most powerful weapon which you can use to change the world
 
