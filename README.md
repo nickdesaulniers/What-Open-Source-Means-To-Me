@@ -277,6 +277,7 @@ This is the kind of technology that enables people to do so much more than what 
 
 ###[Felipe Moura](http://felipenmoura.org/home)
 Aprendizagem, e evolução!
+
 A comunicação(por fala, desenhos ou escrita) foi um marco na história da Humanidade, fazendo com que lições aprendidas e novas descobertas pudessem ser passadas para outras pessoas por gerações, e regiões diferentes!
 O universo Open Source proporciona isto, para soluções de problemas no desenvolvimento de software! Ou seja, ajuda a trazer mais evolução à toda a comunidade!
 
