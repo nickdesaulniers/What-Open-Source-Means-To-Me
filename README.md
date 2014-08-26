@@ -298,3 +298,8 @@ Nelson Mandela (thanks Mariona, for this one!)
 
 **So forge your own destiny. Choose life. Choose open source <img class="emoji" title=":smiley:" alt=":smiley:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png" align="absmiddle" height="20" width="20">**
 
+###[Felipe Moura](http://felipenmoura.org/home)
+Aprendizagem, e evolução!
+
+A comunicação(por fala, desenhos ou escrita) foi um marco na história da Humanidade, fazendo com que lições aprendidas e novas descobertas pudessem ser passadas para outras pessoas por gerações, e regiões diferentes!
+O universo Open Source proporciona isto, para soluções de problemas no desenvolvimento de software! Ou seja, ajuda a trazer mais evolução à toda a comunidade!
