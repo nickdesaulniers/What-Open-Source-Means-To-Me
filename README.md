@@ -303,3 +303,6 @@ Aprendizagem, e evolução!
 
 A comunicação(por fala, desenhos ou escrita) foi um marco na história da Humanidade, fazendo com que lições aprendidas e novas descobertas pudessem ser passadas para outras pessoas por gerações, e regiões diferentes!
 O universo Open Source proporciona isto, para soluções de problemas no desenvolvimento de software! Ou seja, ajuda a trazer mais evolução à toda a comunidade!
+
+###[David Kinzer](https://twitter.com/dtkinzer)
+Open Source is a community; a chance to be heard; to be part of the game; it's an opportunity to expand the way I think; to think of things differently; It's a race; It's accepting constant change; it's a beautiful thing;
