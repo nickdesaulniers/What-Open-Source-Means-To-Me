@@ -306,3 +306,6 @@ O universo Open Source proporciona isto, para soluções de problemas no desenvo
 
 ###[David Kinzer](https://twitter.com/dtkinzer)
 Open Source is a community; a chance to be heard; to be part of the game; it's an opportunity to expand the way I think; to think of things differently; It's a race; It's accepting constant change; it's a beautiful thing;
+
+###[Andre Natal](https://github.com/andrenatal)
+Open source means empowering people with three of the most important things in life: options, freedom and knowledge. Everyone should have the option to choose what they want, and decide whether or not to be out of commercial monopolies and private surveillance, having full control of his or her life. Also, Open Source Community it is the largest and best university in the world, where you can simply choose what you want to learn, what you want to do, how you want to do things, and even work with the most brightest minds in the world. The ones that want to be free. 
