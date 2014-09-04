@@ -314,3 +314,6 @@ Open source means empowering people with three of the most important things in l
 Open source significa aprender e compartilhar conhecimento. É ajudar uma ideia crescer. Contrubuir para um futuro livre. Mas acima de tudo, contribuir para um projeto open source é acreditar nele, se sentir parte dele, pentercer a ele. Essas são as melhores coisas que eu posso dizer sobre o significado de open source.
 
 Open source means to learn and share knowledge. It's help an idea to grow up. To contribute to a free future. But above all, to contribute to an open source project is to believe in it, to feel part of it, belonging to it. Those are the best things I can say about what open source means. 
+
+###[Vitor Leal](https://github.com/vitorleal)
+Open source means that the knowledge that we have can be accessible for everybody. It also means community and when we work as a group we can make the difference, we can make people grow and make a better enviroment for everybody.
