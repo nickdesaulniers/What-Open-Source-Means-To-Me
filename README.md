@@ -318,7 +318,8 @@ Open source means to learn and share knowledge. It's help an idea to grow up. To
 ###[Vitor Leal](https://github.com/vitorleal)
 Open source means that the knowledge that we have can be accessible for everybody. It also means community and when we work as a group we can make the difference, we can make people grow and make a better enviroment for everybody.
 
-+###[Dave McAllister](http://no-badges.blogspot.com)
-+ “Open refers to a process that generates trust, permitting positive interdependence”
-+ 
-+ This definition, coined at the 2012 Open Source Think Tank in Paris, reflects and states my belief in openness. Combined with "source" as the basis and initial existence of things, I can arrive that open source is the start and star of things that need to work together, bridging both things and communities in a way that leads to better and more innovative approaches for all. Open sources allow us to understand, to our necessary level, while offering the ability to choose our involvement.
+###[Dave McAllister](http://no-badges.blogspot.com)
+"Open refers to a process that generates trust, permitting positive interdependence"
+
+This definition, coined at the 2012 Open Source Think Tank in Paris, reflects and states my belief in openness. Combined with "source" as the basis and initial existence of things, I can arrive that open source is the start and star of things that need to work together, bridging both things and communities in a way that leads to better and more innovative approaches for all. Open sources allow us to understand, to our necessary level, while offering the ability to choose our involvement.
+
