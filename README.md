@@ -323,3 +323,5 @@ Open source means that the knowledge that we have can be accessible for everybod
 
 This definition, coined at the 2012 Open Source Think Tank in Paris, reflects and states my belief in openness. Combined with "source" as the basis and initial existence of things, I can arrive that open source is the start and star of things that need to work together, bridging both things and communities in a way that leads to better and more innovative approaches for all. Open sources allow us to understand, to our necessary level, while offering the ability to choose our involvement.
 
+###[Greg Wilson](https://third-bit.com)
+Open source is how we beta-test new ways of collaborating --- ways that, for the first time in history, might let *everyone* collaborate.
