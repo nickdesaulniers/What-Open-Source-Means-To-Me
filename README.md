@@ -333,3 +333,12 @@ potential to create good software which is free from artificial barriers
 and the coercive tendencies to try to gain power over how it is used
 and by whom. Open source means not being alienated from your own work and
 being able to harness a community of knowledge and build upon it over time.
+
+###[Matt Ingenthron](http://twitter.com/ingenthr)
+Open Source is important to me because it reduces friction between software
+and its users.  While it is computer science, there is art to a well designed
+API.  Open Source means the consumer can have a more-level interaction with
+the producer, and both benefit from that.  When the thoughtfulness and design
+of a system come together with the collaboration between producers and
+consumers, I've often seen the best results.  Open Source supports that
+paradigm better than anything else I've seen to date.
