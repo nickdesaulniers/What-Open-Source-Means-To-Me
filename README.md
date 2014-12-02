@@ -342,3 +342,14 @@ the producer, and both benefit from that.  When the thoughtfulness and design
 of a system come together with the collaboration between producers and
 consumers, I've often seen the best results.  Open Source supports that
 paradigm better than anything else I've seen to date.
+
+###[Joan Lascano 'Fearful'](https://twitter.com/fearfular)
+We live in a shifted reality, where we have to keep up to both digital and 
+physical worlds. We are more conscious of the data that surround us and 
+the potential of the collective effort with an open channel for communication.
+
+Contributing to Open Source will help us not only to cooperate collectively 
+but also make products or projects succeed or at least improve quality and 
+reliability. Even if a project is not pick up at the moment, having that 
+source code online could help lots of people and maybe someday come back 
+from another user.
