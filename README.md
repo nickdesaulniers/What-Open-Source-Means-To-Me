@@ -353,3 +353,15 @@ but also make products or projects succeed or at least improve quality and
 reliability. Even if a project is not pick up at the moment, having that 
 source code online could help lots of people and maybe someday come back 
 from another user.
+
+###[Wei Deng](https://github.com/weideng)
+爱自由，爱网络，
+爱编程，爱KTV，
+也爱开源，我不是文艺青年，
+更不是谁的代言，我是码农，
+我代表我自己，
+与你一样，支持开源事业。
+
+开源项目使我们有机会与世界级编程高手学习、交流；开源项目引领IT技术的发展趋势；
+开源项目极大的加快了技术的发展速度；开源项目使的我们个人改变世界的能力更加强大。
+开源产品更加值得信赖，因为你能看到每一行代码。
