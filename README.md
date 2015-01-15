@@ -353,3 +353,11 @@ but also make products or projects succeed or at least improve quality and
 reliability. Even if a project is not pick up at the moment, having that 
 source code online could help lots of people and maybe someday come back 
 from another user.
+
+###[Dongsheng Xue](http://weibo.com/u/2204424827)
+我是一个开发者，开源软件对我来说代表着自由，公开，奉献和个性化。自由是我可以选择我所需要
+的功能，去掉我不需要的部分。公开表示我可以很明确的知道软件会对我做些什么，是否会推送广告，
+是否会记录我的信息。奉献是我在开发过程中曾经无数次借鉴开源项目的经验，一次次给我解决问题
+的灵感，甚至引用一部分开源软件的代码。个性化代表着我可以通过开源软件得到独属于我的独一无
+二的应用，我可以定制我喜欢的颜色，我想要的界面，甚至简化操作过程，这些只需要简单的修改开
+源的代码就可以实现。总之，感谢所有的开源软件贡献者，谢谢。
