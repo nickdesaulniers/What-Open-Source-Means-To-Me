@@ -375,4 +375,4 @@ from another user.
 源的代码就可以实现。总之，感谢所有的开源软件贡献者，谢谢。
 
 ###[Giovanny Gongora](https://gioyik.com)
-Open source means to me a style life. When you understand it and you keep sharing knowledge, editing with your own rules, contributing with an amazing open and incredible community and improving a lot of things that thrust on open source too it becomes something you can stop, I starts to be a feeling that grows everyday. Open source has changed my life and probably other life's too, it makes you change your mind, start to think higher, and give the opportunity to everybody transmit and make ideas awesome.
+Open source means to me a life style. When you understand it and you keep sharing knowledge, editing with your own rules, contributing with an amazing open and incredible community and improving a lot of things that trust on open source too it becomes something you can't stop, It starts to be a feeling that grows everyday. Open source has changed my life and probably other lives too, it makes you change your mind, start to think higher, and give the opportunity to everybody transmit and make ideas awesome.
