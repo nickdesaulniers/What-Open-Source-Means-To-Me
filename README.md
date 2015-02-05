@@ -376,3 +376,6 @@ from another user.
 
 ###[Giovanny Gongora](https://gioyik.com)
 Open source means to me a life style. When you understand it and you keep sharing knowledge, editing with your own rules, contributing with an amazing open and incredible community and improving a lot of things that trust on open source too it becomes something you can't stop, It starts to be a feeling that grows everyday. Open source has changed my life and probably other lives too, it makes you change your mind, start to think higher, and give the opportunity to everybody transmit and make ideas awesome.
+
+###[Vanessa Me Tonini](http://www.vanessametonini.com.br)
+Enquanto eu era apenas uma usuária de Open Source softwares o sentimento que sempre tive era que eu estava escolhendo pelo correto e pelo melhor, que estava utilizando algo feito com muita dedicação por pessoas que acreditam em um mundo de colaboração e cooperação. Hoje criadora e mantenedora de um pequeno e simples software Open Source, sinto de verdade o que é ter verdadeira paixão por criar soluções para ajudar as pessoas, aprender com a colaboração de pessoas desconhecidas, instigar o interesse pela colaboração em pessoas que querem ver o projeto crescer... Tudo isso realmente é impagável, principalmente o sentimento de colaborar para um mundo melhor.
