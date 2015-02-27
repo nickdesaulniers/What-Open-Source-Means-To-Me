@@ -383,3 +383,7 @@ Enquanto eu era apenas uma usuária de Open Source softwares o sentimento que se
 ###[Tristan B. Kildaire - @_Deavmi_](https://deavmi.github.io)
 
 I am Tristan B. Kildaire or otherwise known as _**Deavmi**_. I founded an organisation called [**Crowbar**](https://crowbarhq.github.io), we make [**Free Software**](http://www.gnu.org/philosophy/free-sw.html). I find that freedom of knowledge is important and the sharing of it, the publicness of it is important but also crediting those of which you gained the knowledge from. This is a beautiful thing, I use [**GNU/Linux**](http://gnu.org), I run [**Trisquel GNU/Linux**](http://trisquel.info). I use [**Git**](http://git-scm.com).
+
+###[Errietta Kostala - @errietta](http://errietta.me)
+
+Where do I start? The ability to make changes and enhancements to any application I use is awesome: it means I have the freedom implement new features and fix annoying things in my favourite software. Also, seeing your work go live in software you use is amasing! There's also the opportunity to learn new things and meet new people - I learned a lot from open source communities, and met some of my best friends through them. It can also give you an additional challenge to solve a problem you have never ran accross before.
