@@ -306,3 +306,76 @@ O universo Open Source proporciona isto, para soluções de problemas no desenvo
 
 ###[David Kinzer](https://twitter.com/dtkinzer)
 Open Source is a community; a chance to be heard; to be part of the game; it's an opportunity to expand the way I think; to think of things differently; It's a race; It's accepting constant change; it's a beautiful thing;
+
+###[Andre Natal](https://github.com/andrenatal)
+Open source means empowering people with three of the most important things in life: options, freedom and knowledge. Everyone should have the option to choose what they want, and decide whether or not to be out of commercial monopolies and private surveillance, having full control of his or her life. Also, Open Source Community it is the largest and best university in the world, where you can simply choose what you want to learn, what you want to do, how you want to do things, and even work with the most brightest minds in the world. The ones that want to be free.
+
+###[Morvana Bonin](https://github.com/morvanabonin)
+Open source significa aprender e compartilhar conhecimento. É ajudar uma ideia crescer. Contrubuir para um futuro livre. Mas acima de tudo, contribuir para um projeto open source é acreditar nele, se sentir parte dele, pentercer a ele. Essas são as melhores coisas que eu posso dizer sobre o significado de open source.
+
+Open source means to learn and share knowledge. It's help an idea to grow up. To contribute to a free future. But above all, to contribute to an open source project is to believe in it, to feel part of it, belonging to it. Those are the best things I can say about what open source means.
+
+###[Vitor Leal](https://github.com/vitorleal)
+Open source means that the knowledge that we have can be accessible for everybody. It also means community and when we work as a group we can make the difference, we can make people grow and make a better enviroment for everybody.
+
+###[Dave McAllister](http://no-badges.blogspot.com)
+"Open refers to a process that generates trust, permitting positive interdependence"
+
+This definition, coined at the 2012 Open Source Think Tank in Paris, reflects and states my belief in openness. Combined with "source" as the basis and initial existence of things, I can arrive that open source is the start and star of things that need to work together, bridging both things and communities in a way that leads to better and more innovative approaches for all. Open sources allow us to understand, to our necessary level, while offering the ability to choose our involvement.
+
+###[Greg Wilson](https://third-bit.com)
+Open source is how we beta-test new ways of collaborating --- ways that, for the first time in history, might let *everyone* collaborate.
+
+###[Bob Mottram](http://robotics.uk.to)
+Open source means carving out a public zone within cyberspace in which the
+old rules of proprietary software no longer apply. It means having the
+potential to create good software which is free from artificial barriers
+and the coercive tendencies to try to gain power over how it is used
+and by whom. Open source means not being alienated from your own work and
+being able to harness a community of knowledge and build upon it over time.
+
+###[Matt Ingenthron](http://twitter.com/ingenthr)
+Open Source is important to me because it reduces friction between software
+and its users.  While it is computer science, there is art to a well designed
+API.  Open Source means the consumer can have a more-level interaction with
+the producer, and both benefit from that.  When the thoughtfulness and design
+of a system come together with the collaboration between producers and
+consumers, I've often seen the best results.  Open Source supports that
+paradigm better than anything else I've seen to date.
+
+###[Joan Lascano 'Fearful'](https://twitter.com/fearfular)
+We live in a shifted reality, where we have to keep up to both digital and
+physical worlds. We are more conscious of the data that surround us and
+the potential of the collective effort with an open channel for communication.
+
+Contributing to Open Source will help us not only to cooperate collectively
+but also make products or projects succeed or at least improve quality and
+reliability. Even if a project is not pick up at the moment, having that
+source code online could help lots of people and maybe someday come back
+from another user.
+
+###[Wei Deng](https://github.com/weideng)
+爱自由，爱网络，
+爱编程，爱KTV，
+也爱开源，我不是文艺青年，
+更不是谁的代言，我是码农，
+我代表我自己，
+与你一样，支持开源事业。
+
+开源项目使我们有机会与世界级编程高手学习、交流；开源项目引领IT技术的发展趋势；
+开源项目极大的加快了技术的发展速度；开源项目使的我们个人改变世界的能力更加强大。
+开源产品更加值得信赖，因为你能看到每一行代码。
+
+###[Dongsheng Xue](http://weibo.com/u/2204424827)
+我是一个开发者，开源软件对我来说代表着自由，公开，奉献和个性化。自由是我可以选择我所需要
+的功能，去掉我不需要的部分。公开表示我可以很明确的知道软件会对我做些什么，是否会推送广告，
+是否会记录我的信息。奉献是我在开发过程中曾经无数次借鉴开源项目的经验，一次次给我解决问题
+的灵感，甚至引用一部分开源软件的代码。个性化代表着我可以通过开源软件得到独属于我的独一无
+二的应用，我可以定制我喜欢的颜色，我想要的界面，甚至简化操作过程，这些只需要简单的修改开
+源的代码就可以实现。总之，感谢所有的开源软件贡献者，谢谢。
+
+###[Giovanny Gongora](https://gioyik.com)
+Open source means to me a life style. When you understand it and you keep sharing knowledge, editing with your own rules, contributing with an amazing open and incredible community and improving a lot of things that trust on open source too it becomes something you can't stop, It starts to be a feeling that grows everyday. Open source has changed my life and probably other lives too, it makes you change your mind, start to think higher, and give the opportunity to everybody transmit and make ideas awesome.
+
+###[Vanessa Me Tonini](http://www.vanessametonini.com.br)
+Enquanto eu era apenas uma usuária de Open Source softwares o sentimento que sempre tive era que eu estava escolhendo pelo correto e pelo melhor, que estava utilizando algo feito com muita dedicação por pessoas que acreditam em um mundo de colaboração e cooperação. Hoje criadora e mantenedora de um pequeno e simples software Open Source, sinto de verdade o que é ter verdadeira paixão por criar soluções para ajudar as pessoas, aprender com a colaboração de pessoas desconhecidas, instigar o interesse pela colaboração em pessoas que querem ver o projeto crescer... Tudo isso realmente é impagável, principalmente o sentimento de colaborar para um mundo melhor.
