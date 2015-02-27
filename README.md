@@ -382,4 +382,4 @@ Enquanto eu era apenas uma usuária de Open Source softwares o sentimento que se
 
 ###[Tristan B. Kildaire - @_Deavmi_](https://deavmi.github.io)
 
-I Am Deavmi. I founded an organisation called [Crowbar](https://crowbarhq.github.io), we make [Free Software](http://www.gnu.org/philosophy/free-sw.html). I find that freedom of knowledge is important and the sharing of it, the publicness of it is important but also crediting those of which you gained the knowledge from. This is a beautiful thing, I use GNU/Linux, I run [Trisquel GNU/Linux](http://trisquel.info). I use [Git](http://git-scm.com).
+I am Tristan B. Kildaire or otherwise known as _**Deavmi**_. I founded an organisation called [**Crowbar**](https://crowbarhq.github.io), we make [**Free Software**](http://www.gnu.org/philosophy/free-sw.html). I find that freedom of knowledge is important and the sharing of it, the publicness of it is important but also crediting those of which you gained the knowledge from. This is a beautiful thing, I use GNU/Linux, I run [**Trisquel GNU/Linux**](http://trisquel.info). I use [**Git**](http://git-scm.com).
