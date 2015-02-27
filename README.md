@@ -380,6 +380,6 @@ Open source means to me a life style. When you understand it and you keep sharin
 ###[Vanessa Me Tonini](http://www.vanessametonini.com.br)
 Enquanto eu era apenas uma usuária de Open Source softwares o sentimento que sempre tive era que eu estava escolhendo pelo correto e pelo melhor, que estava utilizando algo feito com muita dedicação por pessoas que acreditam em um mundo de colaboração e cooperação. Hoje criadora e mantenedora de um pequeno e simples software Open Source, sinto de verdade o que é ter verdadeira paixão por criar soluções para ajudar as pessoas, aprender com a colaboração de pessoas desconhecidas, instigar o interesse pela colaboração em pessoas que querem ver o projeto crescer... Tudo isso realmente é impagável, principalmente o sentimento de colaborar para um mundo melhor.
 
-###[Deavmi](https://deavmi.github.io)
+###[Tristan B. Kildaire - @_Deavmi_](https://deavmi.github.io)
 
-I Am Deavmi. I founded an organisation called [Crowbar](https://crowbarhq.github.io), we make Free Software. I find that freedom of knowledge is important and the sharing of it, the publicness of it is important but also crediting those of which you gained the knowledge from.
+I Am Deavmi. I founded an organisation called [Crowbar](https://crowbarhq.github.io), we make [Free Software](http://www.gnu.org/philosophy/free-sw.html). I find that freedom of knowledge is important and the sharing of it, the publicness of it is important but also crediting those of which you gained the knowledge from. This is a beautiful thing, I use GNU/Linux, I run [Trisquel GNU/Linux](http://trisquel.info). I use [Git](http://git-scm.com).
