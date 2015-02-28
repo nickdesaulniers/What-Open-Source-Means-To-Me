@@ -394,6 +394,8 @@ Where do I start? The ability to make changes and enhancements to any applicatio
 
 Nothing short of deep magic.
 
+*<sub>[from the jargon file definition](http://www.catb.org/jargon/):</sub>*
+
 ```c
 deep magic: [poss. from C.S. Lewis's `Narnia' books.] n. An
    awesomely arcane technique central to a program or system, esp. one
@@ -403,13 +405,12 @@ deep magic: [poss. from C.S. Lewis's `Narnia' books.] n. An
    {OS} design used to be {deep magic}; many techniques in
    cryptography, signal processing, graphics, and AI still are.
    Compare {heavy wizardry}.  Esp. found in comments of the form
-   "Deep magic begins here...".  Compare {voodoo programming}.
-
+   "Deep magic begins here...".
 ```
 
 The open source community is basically a 24-7 alchemy convention. Unlike most of History, our practice is real and very likely defining the computing infrastructure of tomorrow.
 
-from [the wikipedia](http://en.wikipedia.org/wiki/Alchemy):
+*<sub>[from wikipedia](http://en.wikipedia.org/wiki/Alchemy):</sub>*
 ```bash
 Alchemy is an influential tradition whose practitioners have, from antiquity,
 claimed it to be the precursor to profound powers. The defining objectives of
