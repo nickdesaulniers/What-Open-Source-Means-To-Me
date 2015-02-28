@@ -389,3 +389,32 @@ I am Tristan B. Kildaire or otherwise known as _**Deavmi**_. I founded an organi
 ###[Errietta Kostala - @errietta](http://errietta.me)
 
 Where do I start? The ability to make changes and enhancements to any application I use is awesome: it means I have the freedom implement new features and fix annoying things in my favourite software. Also, seeing your work go live in software you use is amazing! There's also the opportunity to learn new things and meet new people - I learned a lot from open source communities, and met some of my best friends through them. It can also give you an additional challenge to solve a problem you have never ran accross before.
+
+###[Bent Gunnar Cardan](https://soundcloud.com/bent-cardan)
+
+Nothing short of deep magic.
+
+```c
+deep magic: [poss. from C.S. Lewis's `Narnia' books.] n. An
+   awesomely arcane technique central to a program or system, esp. one
+   not generally published and available to hackers at large (compare
+   {black art}); one which could only have been composed by a true
+   {wizard}.  Compiler optimization techniques and many aspects of
+   {OS} design used to be {deep magic}; many techniques in
+   cryptography, signal processing, graphics, and AI still are.
+   Compare {heavy wizardry}.  Esp. found in comments of the form
+   "Deep magic begins here...".  Compare {voodoo programming}.
+
+```
+
+The open source community is basically a 24-7 alchemy convention. Unlike most of History, our practice is real and very likely defining the computing infrastructure of tomorrow.
+
+from [the wikipedia](http://en.wikipedia.org/wiki/Alchemy):
+```bash
+Alchemy is an influential tradition whose practitioners have, from antiquity,
+claimed it to be the precursor to profound powers. The defining objectives of
+alchemy are varied but historically have typically included one or more of the
+following goals: the creation of the fabled 'philosophers stone'; the ability to
+transmute base metals into the noble metals (gold or silver);
+and development of an elixir of life, which would confer youth and longevity.
+```
