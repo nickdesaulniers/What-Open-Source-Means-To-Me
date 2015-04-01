@@ -419,3 +419,7 @@ following goals: the creation of the fabled 'philosophers stone'; the ability to
 transmute base metals into the noble metals (gold or silver);
 and development of an elixir of life, which would confer youth and longevity.
 ```
+
+###[Mikey - @ahdinosaur](http://dinosaur.is)
+
+to me, open source is when various performers across a diversity of tactics all coordinate in dancing together for common benefit. this is only possible through each performer sensing what their collaborators are doing, with being able to remix the moves done by others before them, and by having the opportunity to invite nearby onlookers to join who may not realize the unique value they can bring to the dance. when we all network together, each with our own personal skills, perspectives, motivations, and approaches, joined by a common thread of free and open systems we can participate in and benefit from, we have the power to achieve anything.
