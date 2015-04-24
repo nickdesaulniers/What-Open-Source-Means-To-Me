@@ -423,3 +423,7 @@ and development of an elixir of life, which would confer youth and longevity.
 ###[Mikey - @ahdinosaur](http://dinosaur.is)
 
 to me, open source is when various performers across a diversity of tactics all coordinate in dancing together for common benefit. this is only possible through each performer sensing what their collaborators are doing, with being able to remix the moves done by others before them, and by having the opportunity to invite nearby onlookers to join who may not realize the unique value they can bring to the dance. when we all network together, each with our own personal skills, perspectives, motivations, and approaches, joined by a common thread of free and open systems we can participate in and benefit from, we have the power to achieve anything.
+
+###[Leonardo Cardoso](http://leocardz.com)
+
+Open source é uma filosofia de vida. O gosto de poder contribuir com algo que alguém já teve o trabalho de começar é imensurável. Melhor ainda quando outros contribuem para o trabalho que você mesmo criou. Cada indivíduo das comunidades de desenvolvimento funcionam taxonomicamente como uma pequena formiga desempenhando o seu papel em prol de construir uma comunidade melhor e com qualidade, e sem sua contribuição a comunidade não é a mesma. O altruísmo de pegar o código junto com as issues e tentar resolver. Open source é a principal maneira de evolução no desenvolvimento de código e da humanidade, por que não?!
