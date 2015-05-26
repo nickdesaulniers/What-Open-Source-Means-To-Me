@@ -427,3 +427,7 @@ to me, open source is when various performers across a diversity of tactics all 
 ###[Leonardo Cardoso](http://leocardz.com)
 
 Open source é uma filosofia de vida. O gosto de poder contribuir com algo que alguém já teve o trabalho de começar é imensurável. Melhor ainda quando outros contribuem para o trabalho que você mesmo criou. Cada indivíduo das comunidades de desenvolvimento funciona taxonomicamente como uma pequena formiga desempenhando o seu papel em prol de construir uma comunidade melhor e com qualidade, e sem sua contribuição a comunidade não é a mesma. O altruísmo de pegar o código junto com as issues e tentar resolver. Open source é a principal maneira de evolução no desenvolvimento de código e da humanidade, por que não?!
+
+###[Veit Heller](https://veitheller.de)
+
+Für mich ist Open Source der kreativste und freiste Weg, mich als Entwickler auszudrücken. Nur durch freien Quellcode werden auch die Gedanken und das Ergebnis wirklich frei, offen und - letztendlich - glaubwürdig. Freie Software eliminiert alle Grenzen zwischen Menschen, erlaubt es uns gemeinsam zu basteln und zu erschaffen, wie wir es uns wünschen - und hoffentlich so gut wir können. Durch die inherente Motivation des Aus-Sich-Selbst-Heraus-Schaffens wird Software besser, werden kreative Energien freigesetzt und Gemeinsamkeit geschaffen. Ob das Ziel Selbstzweck, Tatendrang, Geschäfts- oder Gemeinwohl ist, jedes Programm profitiert von offenem Quellcode. Es wird Zeit für uns zu erkennen, dass Komplexität nur durch Kooperation handhabbar ist.
