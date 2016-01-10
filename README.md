@@ -390,7 +390,7 @@ I am Tristan B. Kildaire or otherwise known as _**Deavmi**_. I founded an organi
 
 Where do I start? The ability to make changes and enhancements to any application I use is awesome: it means I have the freedom implement new features and fix annoying things in my favourite software. Also, seeing your work go live in software you use is amazing! There's also the opportunity to learn new things and meet new people - I learned a lot from open source communities, and met some of my best friends through them. It can also give you an additional challenge to solve a problem you have never run across before.
 
-###[Bent Gunnar Cardan](https://soundcloud.com/bent-cardan)
+###[Bent Gunnar Cardan](https://soundcloud.com/reqshark)
 
 Nothing short of deep magic.
 
