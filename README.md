@@ -431,3 +431,9 @@ Open source é uma filosofia de vida. O gosto de poder contribuir com algo que a
 ###[Veit Heller](https://veitheller.de)
 
 Für mich ist Open Source der kreativste und freiste Weg, mich als Entwickler auszudrücken. Nur durch freien Quellcode werden auch die Gedanken und das Ergebnis wirklich frei, offen und - letztendlich - glaubwürdig. Freie Software eliminiert alle Grenzen zwischen Menschen, erlaubt es uns gemeinsam zu basteln und zu erschaffen, wie wir es uns wünschen - und hoffentlich so gut wir können. Durch die inherente Motivation des Aus-Sich-Selbst-Heraus-Schaffens wird Software besser, werden kreative Energien freigesetzt und Gemeinsamkeit geschaffen. Ob das Ziel Selbstzweck, Tatendrang, Geschäfts- oder Gemeinwohl ist, jedes Programm profitiert von offenem Quellcode. Es wird Zeit für uns zu erkennen, dass Komplexität nur durch Kooperation handhabbar ist.
+
+###[Akash Trehan](https://codemaxx.github.io/)
+
+For me Open Source represents the power of collaboration. Lots and lots of small contributions bubble up something that's useful. Open source is fun and it works. It gives me control over the software I use.
+
+The adrenaline rush when your code finally starts working and your PR is merged, thats priceless. The discussions are really productive and there's a lot that I learn from others. This helps me expand my horizons while doing something I really love, to code. It also gives me a unique satifaction to know my code would help millions if not more. Thats what keeps me ticking!
