@@ -4,6 +4,10 @@ An experiment to see if we can get a bunch of people to send pull requests
 about what open source means to them.  See CONTRIBUTING for the expected
 format.
 
+###[Dave McAllister](http://no-badges.blogspot.com)
+ “Open refers to a process that generates trust, permitting positive interdependence” 
+ This definition, coined at the 2012 Open Source Think Tank in Paris, reflects and states my believes in openness. Combined with "source", as the basis and initial existence of things, I can  arrive that open source is the start and star of things that need to work together, bridging both things and communities in a way th tleads to better and more innovative approaches for all. Open sources allow us to understand, to our necessary level, while offering the ability to choose our involvement.
+
 ###[Nick Desaulniers](http://nickdesaulniers.github.io/about/)
 Open source means standing on the shoulders of giants, allowing humanity to
 accelerate the pace of technological achievement collectively, instead of
