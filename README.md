@@ -235,7 +235,7 @@ I hope one day I see these, too:
 
 + Open Source Goverment
 + Open Source Law
-+ [Open Source Life](https://github.com/gitlife)➡ [If anybody wants to help me start this, please... contact me]
++ [Open Source Life](https://github.com/gitlife) ➡ [If anybody wants to help me start this, please... contact me]
 
 ### [Mike McQuaid](http://mikemcquaid.com)
 Open source means not reinventing the wheel again. Open source means collaborating so everyone can benefit from the work we do in our spare time. Open source means a community running a successful project without any incentives beyond doing a good job.
@@ -301,7 +301,7 @@ Nelson Mandela (thanks Mariona, for this one!)
 ### [Felipe Moura](http://felipenmoura.org/home)
 Aprendizagem, e evolução!
 
-A comunicação(por fala, desenhos ou escrita)foi um marco na história da Humanidade, fazendo com que lições aprendidas e novas descobertas pudessem ser passadas para outras pessoas por gerações, e regiões diferentes!
+A comunicação(por fala, desenhos ou escrita) foi um marco na história da Humanidade, fazendo com que lições aprendidas e novas descobertas pudessem ser passadas para outras pessoas por gerações, e regiões diferentes!
 O universo Open Source proporciona isto, para soluções de problemas no desenvolvimento de software! Ou seja, ajuda a trazer mais evolução à toda a comunidade!
 
 ### [David Kinzer](https://twitter.com/dtkinzer)
