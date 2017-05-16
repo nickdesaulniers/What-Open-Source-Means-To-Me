@@ -437,3 +437,7 @@ Für mich ist Open Source der kreativste und freiste Weg, mich als Entwickler au
 For me Open Source represents the power of collaboration. Lots and lots of small contributions bubble up something that's useful. Open source is fun and it works. It gives me control over the software I use.
 
 The adrenaline rush when your code finally starts working and your PR is merged, thats priceless. The discussions are really productive and there's a lot that I learn from others. This helps me expand my horizons while doing something I really love, to code. It also gives me a unique satifaction to know my code would help millions if not more. Thats what keeps me ticking!
+
+### [Bill Mavromatis](https://github.com/bill-mavromatis)
+
+Open source means that someone from Australia can make a Pull Request to help me overcome a problem. And then I can make a Pull Request to someone from South Korea to help him overcome a problem. And the world suddenly becomes a neighborhood and it's something beautiful. Maybe, just maybe, one day this is how we will run our Governments or write our Laws. Sharing knowledge, having transparency, using the hivemind to solve problems.
