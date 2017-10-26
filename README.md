@@ -441,3 +441,8 @@ The adrenaline rush when your code finally starts working and your PR is merged,
 ### [Bill Mavromatis](https://github.com/bill-mavromatis)
 
 Open source means that someone from Australia can make a Pull Request to help me overcome a problem. And then I can make a Pull Request to someone from South Korea to help him overcome a problem. And the world suddenly becomes a neighborhood and it's something beautiful. Maybe, just maybe, one day this is how we will run our Governments or write our Laws. Sharing knowledge, having transparency, using the hivemind to solve problems.
+
+### [Arpan Banerjee](https://arpan98.github.io)
+
+Open source to me is all about the community and the discussions which are a means for collective learning. It is a better learning medium than even a classroom because you can talk and learn from experts in their own fields.
+Open source projects are a living, breathing entity constantly being shaped and molded by each contributor as they addd a little bit of themselves into the project.
