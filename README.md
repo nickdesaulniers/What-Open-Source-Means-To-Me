@@ -446,3 +446,7 @@ Open source means that someone from Australia can make a Pull Request to help me
 
 Open source to me is all about the community and the discussions which are a means for collective learning. It is a better learning medium than even a classroom because you can talk and learn from experts in their own fields.
 Open source projects are a living, breathing entity constantly being shaped and molded by each contributor as they addd a little bit of themselves into the project.
+
+###[Mareeswari Lakshmi](https://lakme22.github.io)
+
+An open source is a place where we can learn about team work. Its all about learning together in a community. Finally, I have learnt how to contribute to open source, a place from where I learnt so many things. It encourages me to share my knowledge and also to learn from others.
