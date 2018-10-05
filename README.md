@@ -449,4 +449,4 @@ Open source projects are a living, breathing entity constantly being shaped and 
 
 ###[Mareeswari Lakshmi](https://lakme22.github.io)
 
-An open source is a place where we can learn about teamwork. Its all about learning together in a community. Finally, I have learnt how to contribute to open source, a place from where I learnt so many things. It encourages me to share my knowledge and also to learn from others.
+An open source is a place where we can learn about team work. Its all about learning together in a community. Finally, I have learnt how to contribute to open source, a place from where I learnt so many things. It encourages me to share my knowledge and also to learn from others.
