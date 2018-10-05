@@ -449,6 +449,5 @@ Open source projects are a living, breathing entity constantly being shaped and 
 
 ### [Thirumalai devi ramya](https://github.com/thirulak/thirulak.github.io)
 
-Open source is important to me because it is where I learn a lot of stuffs. I learn everyday regarding something from open source. I basically learnt how to develop clean code from open source. Now I am learning on how to contribute back to open source . What I actually felt is the growth of a technical field can be calculated from its open source . The only way to show gratitude is to 
-contribute back , from where it all started . 
+Open source is important to me because it is where I learn a lot of stuff. I learn every day regarding something from open source. I basically learnt how to develop clean code from open source. Now I am learning on how to contribute back to open source. What I actually felt is the growth of a technical field can be calculated from it's open source. The only way to show gratitude is to contribute back, from where it all started. 
 
