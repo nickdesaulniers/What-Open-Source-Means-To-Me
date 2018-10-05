@@ -451,3 +451,6 @@ Open source projects are a living, breathing entity constantly being shaped and 
 
 Open source is important to me because it is where I learn a lot of stuff. I learn every day regarding something from open source. I basically learnt how to develop clean code from open source. Now I am learning on how to contribute back to open source. What I actually felt is the growth of a technical field can be calculated from it's open source. The only way to show gratitude is to contribute back, from where it all started. 
 
+### [Mareeswari Lakshmi](https://lakme22.github.io)
+Open source is a place where we can learn about team work. Its all about learning together in a community. Finally, I have learnt how to contribute to open source, a place from where I learnt so many things. It encourages me to share my knowledge and also to learn from others.
+
