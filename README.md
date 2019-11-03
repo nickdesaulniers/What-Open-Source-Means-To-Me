@@ -454,3 +454,7 @@ Open source is important to me because it is where I learn a lot of stuff. I lea
 ### [Mareeswari Lakshmi](https://lakme22.github.io)
 Open source is a place where we can learn about team work. Its all about learning together in a community. Finally, I have learnt how to contribute to open source, a place from where I learnt so many things. It encourages me to share my knowledge and also to learn from others.
 
+### [B B Susheel Kumar](http://bbsusheelkumar.github.io)
+
+Open Source provides the possibility to build software as required by the community for the purpose of community and most importantly by the community. It is similar to the democracy in software development. Open Source provides the possibility of building a perfect and error or bug minimal software by allowing the discussion of the pros and cons based on the communities voice. It allows every individual to share their knowledge and also provide a platform to learn from many others. It goes by the famous quote of Helen Killer, "Alone we can do so little; together we can do so much". The greatest thing about Open Source is everyone contributes regardless of the credit just to make something good.
+In a lighter side, the joy of work and happiness I get when ever my contributions to Open Source discussions, bugs and feature development gets accepted is not comparable to anything in the world. In the same way the knowledge and information which I get when when it gets rejected for certain reason is also enormous. It's like everything I do, whether correct or wrong, it makes me more better.
