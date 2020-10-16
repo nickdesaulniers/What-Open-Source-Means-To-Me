@@ -458,3 +458,8 @@ Open source is a place where we can learn about team work. Its all about learnin
 
 Open Source provides the possibility to build software as required by the community for the purpose of community and most importantly by the community. It is similar to being democratic in software development. Open Source provides the possibility of building an optimal software by allowing the discussion of the pros and cons based on the community's voice. It allows every person to share their knowledge and provide a platform to learn from many others. It goes with the famous quote of Helen Keller, "Alone we can do so little; together we can do so much". The greatest thing about Open Source is everyone contributes, regardless of the credit just to make something good.
 On a lighter side, the joy of work and happiness I get whenever my contributions to Open Source discussions, bugs and feature development gets accepted is not comparable to anything in the world. In the same way the knowledge and information which I get when when it gets rejected for certain reason is also enormous. It's like everything I do, whether correct or wrong, it makes me better.
+
+### [Christian Nuessli](https://chnuessli.ch)
+
+Open source means to me to code and contribute on projects all over the world or just on the local communities. It means to be taken seriously even without a masters degree.
+I believe in open source and open data and GitHub means to me, that there's a place for all this amazing products and projects we use EVERYDAY!
