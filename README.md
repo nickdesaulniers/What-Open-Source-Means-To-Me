@@ -464,7 +464,7 @@ On a lighter side, the joy of work and happiness I get whenever my contributions
 Open source means to me to code and contribute on projects all over the world or just on the local communities. It means to be taken seriously even without a masters degree.
 I believe in open source and open data and GitHub means to me, that there's a place for all this amazing products and projects we use EVERYDAY!
 
-## [Martin Iturbide] (http://www.os2world.com)
+## [Martin Iturbide](http://www.os2world.com)
 Cuando oí a los capitalistas decir que el código abierto era comunista, y luego oí a los comunistas decir que el código abierto era capitalista, supe inmediatamente que estaba en el camino correcto. 
 
 El código abierto significa tener las mismas reglas de juego, donde la gente compite por talento y no por secuestrar al cliente con su código fuente. Para las empresas significa que van a reducir el riesgo de depender de un único proveedor, mientras que para los individuos significa la oportunidad de competir con grandes empresas para ofrecer sus servicios. 
